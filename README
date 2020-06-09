@@ -1,0 +1,12 @@
+Here's a docker build that _should_ be a little more stable than the standard method
+of building op25. Use docker-compose to build and run. It's Linux only as MacOS doesn't
+include the same capabilities to supply access to USB devices to containers.
+
+See run.sh for an example for how to run. You'll need to supply your own trunk.tsv and
+talkgroups tsv, of course.  You can follow the instructions on this page for doing so:
+https://www.hagensieker.com/wordpress/2018/07/17/op25-for-dummies/
+
+By default in the compose file, /dev/snd is provided to the container, so you can get
+audio out of it. I haven't quite figured out how to get the audio into pulseaudio
+(for easy streaming with OBS etc), but pacat may be an option for that with the UDP
+audio option from rx.py, which is the default entrypoint for this image.

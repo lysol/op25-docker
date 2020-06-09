@@ -1,0 +1,14 @@
+version: '2.0'
+services:
+        op25:
+                build: .
+                ports:
+                        - "8765:8765"
+                        - "23456:23456"
+                devices:
+                        - "/dev/snd"
+                volumes:
+                        - "/dev/bus/usb:/dev/bus/usb"
+                privileged: true
+                dns: 8.8.8.8
+                entrypoint: bash /rx.sh

@@ -1,0 +1,4376 @@
+2	Interagency Mutual Aid 1  
+3	Statewide Tac  
+4	System Technicians 4  
+6	Statewide Tactical 1  
+7	Site Trunking Talkgroup  
+8	Statewide Tactical 2  
+9	NWS Chanhassen  
+11	Law Enforcement Tactical 11  
+12	Dept. Of Administration  
+13	Law Enforcement Tactical 13  
+22	Metro Tactical 5 (A TAC 1)  
+24	Metro Tactical 6 (A TAC 2)  
+26	Metro Tactical 7 (A TAC 3)  
+28	Metro Tactical 8 (A TAC 4)  
+30	State Fire Tac  
+32	Metro Tactical 1 (P TAC 1)  
+34	Metro Tactical 2 (P TAC 2)  
+36	Metro Tactical 3 (P TAC 3)  
+38	Metro Tactical 4 (P TAC 4)  
+39	Helicopter Communication Centers Common  
+40	System Technicians 40  
+44	Statewide Communications Leader  
+46	Statewide Emergency Management Talkgroup  
+48	Metcom  
+50	West Metro Emergency All Call  
+52	East Metro Emergency All Call  
+54	"West Metro ""2500"" Dispatch  "
+55	"West Metro ""2500"" Roaming  "
+56	"West Metro ""2500"" Tac 3  "
+58	"West Metro ""2500"" Tac 1  "
+60	"West Metro ""2500"" Tac 2  "
+62	West Metro 2510 Station  
+64	West Metro 2520 Station  
+66	West Metro 2540 Station  
+68	Metro 4550 Station  
+70	Metro 4560 Station  
+72	Metro 4570 Station 1  
+73	Metro 4570 Station 2  
+74	"East Metro ""2400"" Dispatch  "
+75	"East Metro ""2400"" Roaming  "
+76	"East Metro ""2400"" Tac 3  "
+78	"East Metro ""2400"" Tac 1  "
+80	"East Metro ""2400"" Tac 2  "
+82	East Metro 2410 Station  
+84	East Metro 2430 Station  
+86	East Metro 2440 Station  
+88	Metro 4450 Station  
+90	Metro 4460 Station  
+91	Metro 4470 Station - Nights  
+92	Metro Commercial Vehicle Inspection  
+93	Dept. Of Administration - Technitions  
+94	Supervisors  
+96	Flight Section  
+98	Capitol Security Main  
+100	Governor's Protection Force  
+102	Capitol Security Car-to-Car  
+104	All Call Multigroup  
+106	Main  
+108	Tactical 1  
+110	Tactical 2  
+112	Tactical 3  
+114	Tactical 4  
+116	Tactical 5  
+118	Tactical 6  
+120	Tactical 7  
+122	Alcohol & Gambling Enforcement Tactical 1  
+124	Alcohol & Gambling Enforcement Tactical 2  
+126	State Fire Marshal Main  
+128	State Fire Marshal Tactical 1  
+130	State Fire Marshal Tactical 2  
+132	MN HAZMAT Main  
+134	MN HAZMAT Tactical 1  
+136	MN HAZMAT Tactical 2  
+138	Enforcement All Call  
+140	Enforcement Common  
+142	Metro Wide Field Group  
+144	West Side Group Metro  
+146	East Side Group Metro  
+148	Enforcement Tactical 1 Metro  
+150	Enforcement Tactical 2 Metro  
+152	Enforcement Tactical 3 Metro  
+154	Enforcement Administration Metro  
+156	Metro Parks   
+158	Metro Wildlife   
+160	DNR Forestry Statewide  
+166	DOC 166  
+168	DOC 168  
+170	Office of Special Investigations 1  
+172	Office of Special Investigations 2  
+174	Transportation Unit 1 Main  
+176	Transportation Unit 2 Security  
+178	MCF Lino Lakes Main Operations  
+180	MCF Lino Lakes Local Maintenance  
+182	MCF Stillwater Main Operations  
+184	MCF Stillwater Local Maintenance  
+185	MCF Lino Lakes 185  
+186	MCF Oak Park Heights Main Operations  
+188	MCF Oak Park Heights Local Maintenance  
+190	MCF Shakopee Main Operations  
+192	MCF Shakopee Local Maintenance  
+194	MCF Red Wing Main Operations  
+195	MCF Red Wing Incident Command (ICS)  
+196	MCF Red Wing Local Maintenance  
+198	MCF Rush City Main Operations  
+200	MCF Rush City Local Maintenance  
+202	Department of Revenue Main  
+204	Capitol Security All Call  
+207	MCF Stillwater Incident Command (ICS)  
+208	Central Management Office  
+212	OEC Demo 2  
+215	MCF Lino Lakes 215  
+217	MCF Lino Lakes 217  
+219	MCF Lino Lakes 219  
+222	OEC 2 Admin  
+224	OEC 3 Shop  
+225	MCF Rush City Incident Command (ICS)  
+226	OEC 4 Office Admin  
+227	MCF Rush City 227  
+228	OEC 5 Admin  
+229	MCF Rush City 229  
+230	Survey Crew All Call  
+231	MCF Rush City 231  
+232	Survey Crew TG 1  
+234	Survey Crew TG 2  
+236	Survey Crew TG 3  
+238	Survey Crew TG 4  
+240	Survey Crew TG 5  
+242	Survey Crew TG 6  
+244	Survey Crew TG 7  
+246	Survey Crew TG 8  
+248	Survey Crew TG 9  
+250	Survey Crew TG 10  
+252	Survey Crew TG 11  
+254	Survey Crew TG 12  
+256	Survey Crew TG 13  
+258	Survey Crew TG 14  
+260	Survey Crew TG 15  
+262	Survey Crew TG 16  
+264	Survey Crew TG 17  
+266	Survey Crew TG 18  
+268	Survey Crew TG 19  
+270	Survey Crew TG 20  
+272	Survey Crew TG 21  
+274	Survey Crew TG 22  
+276	Survey Crew TG 23  
+278	DOT Announce - Weather  
+280	Metro Emergency to MSP  
+282	Common  
+284	MNDOT North East Maintance Dispatch  
+286	MNDOT North West Maintance Dispatch  
+288	MNDOT Central Maintance Dispatch  
+290	MNDOT South Maintance Dispatch  
+292	MNDOT North Branch, 12  
+294	MNDOT Forest Lake, 14  
+296	MNDOT Spring Lake Park, 15  
+298	MNDOT Oakdale, 11  
+300	MNDOT Anoka, 41  
+302	MNDOT Maple Grove, 42  
+304	MNDOT Plymouth, 44  
+306	MNDOT Golden Valley, 45  
+308	MNDOT Eden Prairie, 43  
+310	MNDOT Camden Yard, Mlps, 22  
+312	MNDOT Cedar, Richfield, 23  
+314	MNDOT Maryland, St. Paul, 25  
+316	MNDOT Arden Hills, 26  
+318	MNDOT Hastings, 33  
+320	MNDOT Mendota, 32  
+322	MNDOT Lakeville, 34  
+324	MNDOT Shakopee, 31  
+326	MNDOT Jordan, 35  
+328	MNDOT - Supervisors  
+330	MNDOT Materials/Admin  
+332	TMC Airpatrol  
+334	MNDOT Metro 334  
+336	MNDOT Metro 336  
+338	TMC Highway Helper (FIRST)  
+340	ESS Cable Locates  
+342	ESS Signals  
+344	Construction Office Oakdale  
+346	Construction Office Mendota  
+348	Construction Office Eden Prairie  
+350	Construction Office Golden valley  
+352	MNDOT - Sign Shop  
+354	Traffic Striping  
+356	Traffic Engineering  
+358	Building Mainenance  
+360	HazMat  
+362	Radio Board - Demo 1  
+370	Pollution Control Agency Main  
+372	PCA Tactical 1 Contractors  
+374	PCA Tactical 1 Staff  
+382	Law  
+384	Night Crews  
+385	State Patrol Hailing  
+388	Safety  
+390	MNDOT Metro  
+396	Night Crews 1  
+408	MNDOT Metro 408  
+410	MNDOT Metro 410  
+412	MNDOT Metro 412  
+418	Disaster Relief Organization Tactical 1 Red Cross  
+420	Disaster Relief Organization Tactical 2 Salvation Army  
+422	Disaster Relief Organization Tactical 3  
+424	Disaster Relief Organization Tactical 4  
+426	National Guard A  
+428	National Guard EOC ST PAUL  
+430	National Guard   
+431	DNR Forestry NW 1  
+432	DNR Forestery Cambridge  
+433	DNR Forestry NW 2  
+434	DNR Forestry NW 3  
+435	DNR Forestry NE 1  
+436	DNR Forestry NE 2  
+438	DNR Forestry NE 3  
+439	DNR Fire  
+440	Forest Fire Main Dispatch  
+442	DNR Fire Suppression 2  
+443	DNR Forestry  
+446	Metro Traffic Information  
+448	Event Staging  
+450	Homeland Security Emergency Management Duty Officer  
+454	133rd Air Lift Wing Perimeter Ops  
+455	DHS Emergency Management Main  
+456	Department of Health Tactical 1  
+457	Department of Health Tactical 2  
+459	DHS Emergency Management 1  
+460	DHS Emergency Management 2  
+461	DHS Emergency Management 3  
+462	DHS Roaming  
+463	DHS Central Office  
+464	Federal Bureau of Investigations 1  
+465	Federal Bureau of Investigations 3  
+466	Federal Bureau of Investigations 2  
+468	US Fish & Wildlife Service Enforcement  
+478	DNR Wildlife Tracking 1  
+480	DNR Wildlife Tracking 2  
+500	Statewide Tactical 5 (F TAC 1)  
+502	Statewide Tactical 6 (F TAC 2)  
+504	Law Enforcement Tactical 1  
+506	Law Enforcement Tactical 2  
+520	Special Operations Response Team Tactical 1  
+522	Special Operations Response Team Tactical 2  
+524	Special Operations Response Team Tactical 3  
+526	Special Operations Response Team Tactical 4  
+528	Radio Board - Demo TG  
+600	Metro Local Public Health Association 1  
+602	Metro Local Public Health Association 2  
+604	Metro Local Public Health Association 3  
+606	Metro Local Public Health Association 4  
+610	National Guard D  
+612	National Guard E  
+614	National Guard F  
+616	National Guard G  
+618	133rd Air Lift Wing Flightline Ops  
+620	National Guard I  
+622	National Guard J  
+624	National Guard K  
+626	National Guard L  
+628	National Guard M  
+630	34th Infantry Red Bulls Main  
+632	National Guard O  
+634	National Guard P  
+636	National Guard Q  
+638	National Guard R  
+640	National Guard S  
+642	National Guard T  
+644	Camp Ripley Fire  
+646	National Guard V  
+648	National Guard W  
+650	Camp Ripley Range Control  
+652	Camp Ripley Security  
+654	Camp Ripley Ops 1  
+656	Camp Ripley Ops 2  
+662	Camp Ripley Range Control  
+670	National Guard X  
+694	DNR CONS TAC 694  
+696	DNR CONS TAC 696  
+698	DNR CONS TAC 698  
+700	System Technicians 700  
+702	System Technicians 702  
+704	System Technicians 704  
+706	System Technicians 706  
+708	SE MN System Technicians 708  
+710	DNR CONS D TAC 710  
+712	DNR CONS D2 TAC  
+714	DNR CONS D TAC 714  
+715	DNR 715  
+716	DNR CONS D TAC 716  
+718	DNR CONS D TAC 718  
+720	DNR CONS D TAC 720  
+722	DNR CONS D TAC 722  
+723	William O'Brien State Park  
+724	DNR CONS D TAC 724  
+725	DNR 725  
+727	Fort Snelling State Park  
+728	DNR CONS D TAC - St Louis County  
+730	DNR CONS D TAC - St Louis County  
+731	Afton State Park  
+734	DNR CONS D 6 TAC  
+744	Air Enforcement  
+746	Duluth Area Tactical A  
+748	Duluth Area Tactical B  
+752	DNR CONS D9 TAC Brainerd area  
+764	Reg 3 Dist 11 Ops Hoffman Area Tac  
+770	Reg 3 Dist 12 Ops  
+772	DNR 772  
+776	Region 4 District 15  
+778	Region 4 District 15 TAC  
+782	Region 4 District 16  
+784	Region 4 District 16 TAC  
+788	Enforcement   
+790	DNR 790  
+794	Region 3 District 18 Rochester Enforcement  
+796	DNR 796  
+800	Radio Technicians  
+802	South Main Dispatch  
+804	Police Ch. 2 Administration  
+806	"Police Information ""CH 3""  "
+808	Police 3rd Main  
+810	North Main Dispatch  
+812	Common  
+814	Tactical 1  
+816	Tactical 2  
+818	Tactical 3  
+820	North Metro Drug Task Force  
+822	Law Enforcement Multigroup  
+824	Anoka City Police Car to Car  
+826	Anoka City Police Administrative  
+828	Blaine Police Car to Car  
+830	Blaine Police Administrative  
+832	Centennial Police Car to Car  
+834	Centennial Police Administrative  
+836	Columbia Heights Police Car to Car  
+838	Columbia Heights Police Administrative  
+840	Coon Rapids Police Car to Car  
+842	Coon Rapids Police Administrative  
+844	Fridley Police Car to Car  
+846	Fridley Police Administrative  
+848	Lino Lakes Police Car to Car  
+850	Lino Lakes Police Administrative  
+852	Ramsey Police Car to Car  
+854	Ramsey Police Administrative  
+856	St Francis Police Car to Car  
+858	St Francis Police Administrative  
+860	Spring Lake Park Police Car to Car  
+862	Spring Lake Park Police Administrative  
+864	Police Car-to-Car  
+866	Police Administration  
+868	Anoka City Common  
+870	Blaine, SLP, MV Common  
+872	Columbia Heights - Hilltop Common  
+874	Coon Rapids Common  
+876	Fridley Common  
+878	Lino Lakes, Lexington, CP, CVL Common  
+880	Ramsey Common  
+882	St. Francis, Bethel Common  
+884	Area Common  
+886	Jail Main  
+888	Jail Administration  
+890	SWAT Team  
+892	Dive Team  
+894	Reserves  
+896	Law Enforcement  
+898	Special Events 1  
+900	Special Events 2  
+902	Emergency Management 1  
+904	Law Enforcement Roaming Talkgroup  
+906	Fire Main (VHF patch)  
+908	Fire Tactical A  
+910	Fire Tactical B  
+912	Fire Tactical C  
+914	Andover Fire Tactical  
+916	Anoka - Champlin Fire Tactical  
+918	Bethel Fire Tactical  
+920	SBM ( Sprink Lk Park/Blaine/Mounds View ) Fire Tactical  
+922	Columbia Heights Fire Tactical  
+924	Coon Rapids Fire Tactical  
+926	East Bethel Fire Tactical  
+928	Fridley Fire Tactical  
+930	Ham Lake Fire Tactical  
+932	Lexington Fire Tactical  
+934	Centennial Fire Tactical  
+936	Linwood Fire Tactical  
+938	Oak Grove Fire Tactical  
+940	Ramsey Fire Tactical  
+942	St Francis Fire Tactical  
+944	Fire Service Multigroup  
+946	Andover Fire Administrative 1  
+948	Anoka - Champlin Fire Administrative 1  
+950	Bethel Fire Administrative 1  
+952	SBM ( Sprink Lk Park/Blaine/Mounds View ) Fire Administrative 1  
+954	Columbia Heights Fire Administrative 1  
+956	Coon Rapids Fire Administrative 1  
+958	East Bethel Fire Administrative 1  
+960	Fridley Fire Administrative 1  
+962	Ham Lake Fire Administrative 1  
+964	Lexington Fire Administrative 1  
+966	Centennial Fire Administrative 1  
+968	Linwood Fire Administrative 1  
+970	Oak Grove Fire Administrative 1  
+972	Ramsey Fire Administrative 1  
+974	St Francis Fire Administrative 1  
+976	Andover Fire Administrative 2  
+978	Anoka - Champlin Fire Administrative 2  
+980	Bethel Fire Administrative 2  
+982	SBM ( Sprink Lk Park/Blaine/Mounds View ) Fire Administrative 2  
+984	Columbia Heights Fire Administrative 2  
+986	Coon Rapids Fire Administrative 2  
+988	East Bethel Fire Administrative 2  
+990	Fridley Fire Administrative 2  
+992	Ham Lake Fire Administrative 2  
+994	Lexington Fire Administrative 2  
+996	Centennial Fire Administrative 2  
+998	Linwood Fire Administrative 2  
+1000	Oak Grove Fire Administrative 2  
+1002	Ramsey Fire Administrative 2  
+1004	St Francis Fire Administrative 2  
+1006	Fire Special Operations  
+1008	Fire Roaming Talkgroup  
+1010	Public Works Common  
+1012	Highway Department Main  
+1014	Highway Department Surveyors  
+1016	Highway Department Administration  
+1018	Parks Department Main  
+1020	Parks Department Police  
+1022	Andover Public Works  
+1024	Anoka City Public Works  
+1026	Bethel Public Works  
+1028	Blaine Public Works  
+1030	Burns Township Public Works  
+1032	Centerville Public Works  
+1034	Circle Pines Public Works  
+1036	Columbia Heights Public Works  
+1038	Columbus Township Public Works  
+1040	Coon Rapids Public Works  
+1042	East Bethel Public Works  
+1044	Fridley Public Works  
+1046	Ham Lake Public Works  
+1050	Hilltop Public Works  
+1052	Lexington Public Works  
+1054	Lino Lakes Public Works  
+1056	Linwood Public Works  
+1058	Oak Grove Public Works  
+1060	Ramsey Public Works  
+1062	St Francis Public Works  
+1064	Spring Lake Park Public Works  
+1066	Public Works Roaming Talkgroup  
+1068	Court Security  
+1070	CID  
+1072	Property Management  
+1074	Public Health Main  
+1082	Court Security Administration  
+1084	Emergency Management 2  
+1086	VARDA Alarms  
+1110	Anoka County Traveler Bus Operations  
+1112	Ramsey Star Express Transit Operations  
+1116	Emergency Management Admin 1  
+1118	Emergency Management Admin 2  
+1122	Special events 3  
+1124	Fire Tactical D  
+1128	Lino Lakes Common  
+1130	Lino Lakes Public Safety Fire Tactical  
+1136	County Snow Plows  
+1144	Coon Rapids Fire Dispatch USDD (patched with 155.64 MHz)  
+2000	North EMS  
+2001	North EMS  
+2002	ALS Dispatch - Metro  
+2003	Alexandria - Dispatch  
+2004	BLS Dispatch - Metro  
+2006	Metro Tac 1  
+2007	Waseca - Dispatch  
+2008	Administration  
+2009	Hubbard Cass - Dispatch  
+2010	Metro Tac 2  
+2011	Hubbard - Cass T2T Tac  
+2012	Supervisors  
+2014	Radio Service  
+2016	Admin Tac A  
+2018	Admin Tac B  
+2026	Air Care 1 Dispatch - Lakeville  
+2028	Air Care 4 Dispatch - Princeton  
+2030	Faribault - Dispatch  
+2032	Air Care Inflight Flight Following  
+2034	Princeton - Dispatch  
+2036	All State Channel  
+2038	Common  
+2040	New Prague - Dispatch  
+2042	Dispatch  
+2044	Forest Lake - CH 1  
+2046	Forest Lake - CH 2  
+2048	Faribault - CH 2  
+2050	North EMS Princeton area Business 1  
+2054	Air Care 2 Dispatch - Brainerd  
+2056	Air Care 3 Dispatch - Redwood Falls  
+2058	Air Care 5 Dispatch - Bemidji  
+2060	Brainerd - Dispatch  
+2062	Brainerd T2T  
+2066	Brainerd Paging  
+2068	North Memorial Hospital Security 1  
+2070	North Memorial Hospital Security 2  
+2072	North Memorial Hospital Security Supervisors  
+2074	Maple Grove Hospital Security 1  
+2076	Maple Grove Hospital Security 2  
+2078	Maple Grove ICS CALL  
+2080	Maple Grove ICS TAC 1  
+2082	Maple Grove ICS TAC 2  
+2084	Maple Grove ICS TAC 3  
+2086	Maple Grove ICS TAC 4  
+2088	Faribault  
+2090	Brainerd  
+2092	RW Falls - Dispatch  
+2096	Pine River - Dispatch  
+2098	Pine River T2T  
+2100	ALS Dispatch North  
+2102	BLS Dispatch  
+2103	New Ulm Dispatch  
+2104	Tactical 1  
+2106	Tactical 2  
+2108	Statewide  
+2109	Hutchinson - Glencoe Dispatch  
+2110	Event 1  
+2111	Hutchinson Admin  
+2112	ALS Ambulance Dispatach Communications  
+2113	Statewide  
+2114	Business  
+2115	Flight Follow - Statewide  
+2116	Administration  
+2117	Tac 1 - Statewide  
+2118	Event  
+2119	Alexandria Dispatch (Life Link 2)  
+2121	Anoka Dispatch  
+2122	Two Twelve Medical Center Patient Information  
+2123	Willmar Dispatch (Life Link 3)  
+2124	HCMC Events  
+2125	Hibbing Dispatch  
+2130	HCMC Ambulance  
+2131	HCMC Emergency Medical Services Tactical 1  
+2132	"HCMC channel 2 ""business""  "
+2133	HCMC Emergency Medical Services Tactical 2  
+2135	HCMC Emergency Medical Services Tactical 3  
+2136	HCMC Supervisors   
+2137	HCMC Emergency Medical Services Tactical 4  
+2138	HCMC Administration  
+2142	West MRCC Main  
+2144	West MRCC Cross Patch 1  
+2146	West MRCC Cross Patch 2  
+2150	CHD Metro Region Coordination  
+2152	Abbott Northwestern Hospital  
+2153	Brainerd  
+2154	Minneapolis Children's Hospital  
+2156	Hennepin County Medical Center  
+2158	Mercy Hospital  
+2160	Methodist Hospital  
+2162	North Memorial Medical Center  
+2164	University of Minnesota Medical Center West Bank  
+2166	Ridgeview Medical Center  
+2168	Fairview Southdale Medical Center  
+2170	St. Francis Regional Medical Center  
+2172	University of Minnesota Medical Center East Bank  
+2174	Unity Medical Center  
+2176	Minneapolis Veteran Affairs Medical Center  
+2178	St. Joseph's Hospital  
+2180	St. John's Hospital  
+2182	Lakeview Medical Center  
+2184	Regina Medical Center  
+2186	Ridges Medical Center  
+2188	Regions Hospital  
+2190	United Hospital  
+2192	Woodwinds Hospital  
+2196	Maple Grove Hospital  
+2198	Maple Grove Hospital  
+2204	North Memorial Medical Center  
+2208	Ridgeview Medical Center  
+2210	Fairview Southdale Hospital  
+2224	Lakeview Medical Center  
+2236	EMH Calling  
+2238	EMH Comm 1  
+2240	EMH Comm 2  
+2250	CHD  
+2252	Statewide Tactical 9 (E TAC 1)  
+2254	Statewide Tactical 10 (E TAC 2)  
+2256	Statewide Tactical 11 (E TAC 3)  
+2258	Statewide Tactical 12 (E TAC 4)  
+2260	West Metro EMS Supervisors  
+2262	Dispatch All Call  
+2264	Dispatch South  
+2266	Wright County ALS Dispatch  
+2268	Northfield Ambulance Dispatach   
+2270	ADC Patient Information  
+2272	Business 1  
+2274	Business 2  
+2280	EMH Comm 3  
+2282	EMH Comm 4  
+2286	EMS Operations  
+2288	Fairview Lakes Medical Center  
+2290	Supervisors  
+2296	HealthEast ALS Dispatch  
+2298	HealthEast BLS Dispatch  
+2300	HealthEast Event Channel  
+2302	HealthEast Supervisors  
+2304	HealthEast Administration  
+2306	East MRCC Main  
+2310	Lakeview EMS 2311  
+2312	Administration  
+2314	Lakeview EMS 2314  
+2318	EMS Coordination  
+2326	Emergency Operations Centers  
+2328	EOC Tactical 1  
+2330	EOC Tactical 2  
+2332	New River Hospital Centra Care Hospital - Monticello  
+2334	New River EMS Administration  
+2336	EMS Patient Information Statewide MRCC Calling  
+2338	Two Twelve Medical Center  
+2342	University of Minnesota Amplatz Children's Hospital  
+2344	Statewide Emergency Department  
+2346	St. Croix Valley EMS Dispatch  
+2350	HealthEast Roam  
+2465	Dispatch  
+2467	EMS Dispatch Detroit Lakes Area  
+2500	Bus Operations  
+2502	Bus Operations  
+2504	Bus Operations  
+2506	Bus Operations  
+2508	Bus TG 1  
+2510	Bus TG 2  
+2512	Bus TG 3  
+2514	Bus TG 4  
+2516	Bus TG 5  
+2518	Bus TG 6  
+2520	Bus TG 7  
+2522	Bus TG 8  
+2524	Bus TG 9  
+2526	Bus Supervisor  
+2528	Bus Supervisors car to car  
+2530	Supervisors Tactical  
+2532	Transit Police Dispatch - West  
+2534	Police Car to Car  
+2536	Police Tactical 1  
+2538	"Police Tactical 2 - ""Data""  "
+2540	Transit Police Dispatch - East  
+2542	Transit Common  
+2546	Maint. Nicollet Shop  
+2548	Maint. Downtown Mpls Shop  
+2550	Maint. Brooklyn Park Shop  
+2552	Maintenance  
+2554	Maintenance  
+2556	Metro Transit State Fair Shop  
+2558	Metro Transit St. Paul Shop  
+2562	MTC  
+2564	Maintenance All Call  
+2566	Radio Fallback Minneapolis  
+2568	Radio Fallback  
+2570	Radio Fallback Brooklyn Center  
+2572	Radio Fallback St. Paul  
+2574	Buses  
+2576	Bus TG 13  
+2578	Buses  
+2580	MCT  
+2700	Carver County Sheriff Main  
+2702	Carver County Sheriff Info Traffic  
+2704	Carver County Sheriff Info Traffic Overflow  
+2706	Sheriff East Car-to-Car  
+2708	Sheriff West Car-to-Car  
+2710	Carver Common Law Enforcement  
+2712	Carver County Law Enforcement All  
+2716	Carver County Fire Main  
+2718	Carver County Fire Tac 1  
+2720	Carver County Fire Tac 2  
+2722	Carver County Fire Tac 3  
+2724	Carver County Fire Tac 4  
+2726	Carver County Fire Tac 5  
+2728	Carver County Fire Tac 6  
+2730	Carver Fire All  
+2732	Carver County Fire MA 1  
+2734	Carver County Fire MA 2  
+2736	Carver City Fire Administration  
+2738	Chanhassen Fire Administration  
+2740	Chaska Fire Administration  
+2742	Cologne Fire Administration  
+2744	Hamburg Fire Administration  
+2746	Mayer Fire Administration  
+2748	New Germany Fire Administration  
+2750	Norwood Young America Fire Administration  
+2752	Victoria Fire Administration  
+2754	Waconia Fire Administration  
+2756	Watertown Fire Administration  
+2758	Fire Subsystem Roaming  
+2760	Carver County PW Highway Dept - Main  
+2762	Carver County PW Highway Dept - Engineers  
+2764	Carver County PW Highway Dept - Surveyors  
+2766	Carver County PW Highway Dept - Parks  
+2768	Carver County PW Highway Dept - Maintenance  
+2770	Carver County PW Highway Dept - Maintenance  
+2772	Carver County PW Highway Dept  
+2774	Carver County PW Highway Dept  
+2778	Chanhassen Fire Public Works  
+2780	Chaska Public Works  
+2782	Cologne Public Works  
+2784	Hamburg Public Works  
+2786	Mayer Public Works  
+2788	New Germany Public Works  
+2790	Victoria Fire Ops 2  
+2792	Waconia Public Works  
+2794	Watertown Public Works  
+2796	Norwood Young America City Public Works  
+2798	Laketown Public Works  
+2800	Carver County Countywide Public Works Mutual Aid  
+2802	Carver County Public Works Subsystem Roaming  
+2804	Carver County Buses  
+2806	Carver Public Service Roaming Talkgroup  
+2808	Carver County Fire/LE Shared  
+2810	Carver County PW/PS Shared  
+2812	Carver County Emergency Management  
+2814	Carver County Severe Weather Coordination  
+2816	Carver Countywide EMS  
+2818	Carver County Countywide Training  
+2822	Carver County Wide Fire 1  
+2824	Carver Co. Fire  
+2848	Carver County Sheriff TAC 1  
+2858	Fire Administration  
+2872	Chaska Police Car-Car  
+2882	Chaska Police Events  
+2886	Carver County Sheriff TAC 2  
+2898	Carver County Sheriff TAC 3  
+2900	MECC Emergent - Urgent Access  
+2902	Streets  
+2904	Water/Sewer  
+2906	Animal Control  
+2908	System Technicians  
+2910	Sanitation  
+2912	City Administration  
+2914	Sanitation  
+2916	Public Works Sewer 1  
+2918	Public Works Sewer 2  
+2920	Public Works Technicians  
+2926	City Hall Cleaning  
+2928	City Common  
+2930	Sanitation  
+2954	Police 1 - Precinct 3  
+2956	Police 2 - Precinct 1 - 4  
+2958	Police 3 - Precinct 2 - 5  
+2960	Police 4 - Overflow dispatch/ events  
+2962	Police 5 - Car-to-Car  
+2964	Police 6 - Traffic Control/Parking  
+2966	Police 7 - Records / Warrents  
+2968	Police 8  
+2970	Police 9 - Events  
+2972	Police 10 - Car-to-Car  
+2974	Police 11  
+2982	Police  
+2984	Park Police  
+2990	Police  
+3002	Police  
+3016	Fire Dispatch  
+3018	Fire Tac 2 Mobiles Only  
+3020	Fire Tac 3  
+3022	Fire Tac 4  
+3024	Fire Tac 5  
+3026	Fire Tac 6  
+3028	Fire Tac 7  
+3030	Fire Tac 8 Fire Prevention  
+3032	Fire Tac 9 Training  
+3034	Fire Truck to Truck  
+3036	Fire Truck to Truck  
+3040	Fire Secure  
+3042	Fire All Call  
+3044	Police All Call  
+3046	Fire Admin  
+3054	Minneapolis Water Dept.  
+3056	Minneapolis Election Polling Comms  
+3058	Minneapolis Minneapolis Schools Security  
+3060	Police Downtown Safezone Security  
+3076	Minneapolis Police  
+3080	Minneapolis Police  
+3092	Minneapolis Police  
+3103	Minneapolis Adm All  
+3300	LRT All Call  
+3302	LRT Operations  
+3304	LRT Maintenance  
+3306	LRT Yard - RCC Ops  
+3308	LRT Supervisors  
+3310	LRT Facilities  
+3312	LRT MAC Tactical  
+3314	LRT Main  
+3316	LTR Operations  
+3318	LRT Emergency Channel - 6  
+3320	LTR Blue Main  
+3322	LTR Blue Emergency - 2  
+3324	LRT Rail Ops  
+3326	LTR North Main  
+3350	Metro Mobility East - North  
+3352	Metro Mobility Central  
+3358	Metro Mobility West - South  
+3360	Metro Mobility Edina  
+3362	Metro Mobility Brooklyn Center  
+3366	Metro Mobility South - East  
+3401	US Marshal Service1 Statewide  
+3403	US Marshal Service1 Metro 1  
+3405	US Marshal Service1 Metro 2   
+3407	US Marshal Service1 Zone 1  
+3409	US Marshal Service1 Zone 2  
+3411	US Marshal Service1 Zone 3  
+3413	US Marshal Service1 Zone 4  
+3415	US Marshal Service1 Zone 5  
+3416	Rice County, WI  
+3417	US Marshal Service1 Zone 6  
+3418	Pierce County, WI  
+3419	US Marshal Service1 10  
+3420	Metro Airport Comm 911 Center  
+3421	US Marshal Service1 11  
+3422	Anoka 911 Center  
+3423	US Marshal Service1 12  
+3426	Bloomington 911 Center  
+3432	Chisago County  
+3436	Dakota County 911 Center  
+3440	Eden Prairie 911 Center  
+3442	Edina 911 Center  
+3444	Hopkins 911 Center  
+3446	Isanti County  
+3450	Minnetonka 911 Center  
+3452	Ramsey County 911 Access  
+3454	Scott County 911 Center  
+3456	Sherburne County  
+3458	Sibley County  
+3460	St Louis Park 911 Center  
+3462	St. Paul  
+3464	Washington County  
+3468	White Bear Lake  
+3470	Wright County  
+3472	University of Minnesota 911  
+3496	Tribal Council Operations 1  
+3500	TSA MSP Airport Emergency Operation Center  
+3580	Security Monitors  
+3582	Dept of Emergency Management 2  
+3584	Dept of Emergency Management 1  
+3586	University Common  
+3588	Department of Environmental Health & Safety  
+3590	Police 5 Common  
+3592	Police 4 Investigations  
+3594	Police 3 Records/Parking  
+3596	Police Department, Car to Car  
+3598	Police Department, Main Dispatch  
+3600	Parks 1  
+3601	Highway Maintenance Crew  
+3602	Parks 2  
+3603	Washington  
+3604	Parks 3  
+3605	Washington  
+3609	Survey Crew  
+3612	County Govt Center/Courts/LEC-Building Services 1  
+3614	County Govt Center/Courts/LEC-Building Services 2  
+3616	County Govt Center/Courts/LEC-Building Services 3  
+3618	Law Enf. North   
+3619	Fire All Call  
+3620	Law Enf. South   
+3622	CO Sheriff C2C  
+3623	Law A  
+3624	County Law Enforcement-Information  
+3626	Law Traffic Spare  
+3628	Law OPS 3  
+3630	Law OPS 4  
+3632	Law OPS 5  
+3634	Law OPS 6  
+3636	LEC Ops 7   
+3638	LEC Ops 8  
+3640	Event 7  
+3642	Event 8  
+3644	Event 9  
+3646	Event 10  
+3648	Event 11  
+3650	Event 12  
+3651	Law B  
+3652	Law Enforcement Roam  
+3653	Washington  
+3654	Emergency Buttons - 911  
+3656	Law All Call  
+3658	Narcotics 3  
+3660	SRT 1  
+3662	SRT 2  
+3663	Law  
+3664	SRT 3  
+3666	All Washington Co PD Investigators  
+3668	Bayport Police Car to Car  
+3672	Cottage Grove Police Car to Car  
+3678	Forest Lake Police Car to Car  
+3682	Washington  
+3686	Oakdale Police Car to Car  
+3688	Washington  
+3692	Oak Park Heights Police Car to Car  
+3698	St. Paul Park Police Car to Car  
+3702	Stillwater Police Car To Car  
+3704	Washington  
+3706	Woodbury Police Car to Car  
+3708	WA LAW  
+3712	WA LAW  
+3714	Washington  
+3720	Sheriff's Office Investigations  
+3722	Jail Operations 1  
+3724	Jail Operations 2  
+3728	Jail Operations 3  
+3730	Washington  
+3734	County Water Patrol  
+3750	Fire Main Disp.  
+3752	Fire Secondary Disp.  
+3754	Fire T2T  
+3756	Fire TAC A  
+3758	Fire TAC B  
+3760	Fire TAC C  
+3762	Fire TAC D  
+3764	Fire TAC E  
+3766	Fire TAC F  
+3768	Fire Dive Team  
+3770	Fire Department Roaming  
+3772	Fire  
+3774	Fire All Call  
+3776	Bayport Fire Ops 2  
+3778	Bayport Fire Ops 3  
+3780	Cottage Grove Fire Ops 2  
+3782	Cottage Grove Fire Ops 3  
+3784	Forest Lake Fire Ops 2  
+3786	Forest Lake Fire Ops 3  
+3788	Hugo Fire Ops 2  
+3790	Hugo Fire Ops 3  
+3792	Lake Elmo Fire Ops 2  
+3794	Lake Elmo Fire Ops 3  
+3796	Lower St. Croix Vly. Fire Ops 2  
+3798	Lower St. Croix Vly. Fire Ops 3  
+3800	Mahtomedi Fire Ops 2  
+3802	Mahtomedi Fire Ops 3  
+3804	Marine on St. Croix Fire Ops 2  
+3806	Marine on St. Croix Fire Ops 3  
+3808	Newport Fire Ops 2  
+3810	Newport Fire Ops 3  
+3812	Oakdale Fire Operations 2 - 7200  
+3814	Oakdale Fire Operations 3 - 7200   
+3816	Scandia Fire Ops 2  
+3818	Scandia Fire Ops 3  
+3819	Washington  
+3820	St. Paul Park Fire Ops 2  
+3822	St. Paul Park Fire Ops 3  
+3824	Stillwater Fire Ops 2  
+3826	Stillwater Fire Ops 3  
+3828	Woodbury Fire Ops  
+3830	Woodbury Fire Admin  
+3832	Fire  
+3850	Bayport, Oak Park Heights, Stillwater, PS Common  
+3852	Cottage Grove, St. Paul Park, Newport Public Safety Common  
+3854	Forest Lake Public Safety Common  
+3856	Hugo Public Safety Common  
+3858	Lake Elmo Public Safety Common  
+3860	Lower St. Croix Vly. Public Safety Common  
+3862	Mahtomedi Public Safety Common  
+3864	Marine/Scandia Public Safety Common  
+3866	City of Oakdale Public Safety Common  
+3868	Woodbury Public Saftey Common  
+3870	Washington County Public Safety Common  
+3882	Woodbury Public Works - Streets  
+3890	Highway Maintenance Crew  
+3894	Public Health  
+3898	County Roam  
+3900	County Roam All  
+3950	Bayport City Common  
+3952	Cottage Grove City Common  
+3954	Forest Lake City Common  
+3956	Hugo City Common  
+3958	Lake Elmo City Common  
+3960	Lower St. Croix Vly. City Common  
+3962	Marine on St. Croix City Common  
+3964	Marine on St. Croix City Common  
+3966	Newport City Common  
+3968	Oakdale City Common  
+3970	Oak Park Heights City Common  
+3972	Scandia City Common  
+3974	St. Paul Park City Common  
+3976	Stillwater City Common  
+3978	Woodbury City Common  
+3980	All Washington County Users Common  
+4200	Fire East Main  
+4202	Fire West Main  
+4204	Dakota County Fireground 4  
+4206	Dakota County Fireground 5  
+4208	Dakota County Fireground 6  
+4210	Dakota County Fireground 7  
+4212	Dakota County Fireground 8  
+4214	Apple Valley Fire Ops 2  
+4216	Burnsville Fire Ops 2  
+4218	Eagan Fire Ops 2  
+4220	Farmington Fire Ops 2  
+4222	Hastings Fire Ops 2  
+4224	Hampton - Randolph Fire Ops 2  
+4226	Inver Grove Heights Fire Ops 2  
+4228	Lakeville Fire Ops 2  
+4230	Mendota Heights Fire Ops 2  
+4232	Miesville Fire Ops 2  
+4234	Rosemount Fire Ops 2  
+4236	South Metro SSP & WSP Fire Ops 2  
+4238	Apple Valley Fire Ops 3  
+4240	Burnsville Fire Ops 3  
+4242	Eagan Fire Ops 3  
+4244	Farmington Fire Ops 3  
+4246	Hastings Fire Ops 3  
+4248	Hampton - Randolph Fire Ops 3  
+4250	Inver Grove Heights Fire Ops 3  
+4252	Lakeville Fire Ops 3  
+4254	Mendota Heights Fire Ops 3  
+4256	Miesville Fire Ops 3  
+4258	Rosemount Fire Ops 3  
+4260	South Metro Fire Ops 3 (SSP/WSP)  
+4262	Fire Statewide Roaming  
+4272	Fire Paging  
+4300	Police Main 1  
+4302	Police Main 2  
+4304	Police Main 3  
+4306	Dakota County Tac 4  
+4308	Dakota County Car to Car  
+4310	Dakota County Tac 10  
+4312	Dakota County Tac 11  
+4314	Dakota County Tac 12  
+4316	Dakota County Tac 13  
+4318	Dakota County Tac 14  
+4320	Dakota County Tac 15  
+4322	Dakota LTAC  
+4324	Dakota LTAC  
+4328	Dakota County MAAG 1  
+4332	Dakota County Spec Event 1  
+4334	Dakota County Spec Event 2  
+4336	Dakota County Spec Event 3  
+4338	Dakota County Spec Event 4  
+4340	Dakota County Spec Event 5  
+4342	Apple Valley Police Ops 3  
+4344	Burnsville Police Ops 3  
+4346	SO Tactical  
+4348	Eagan Police 3300 Ops 3  
+4350	Farmington Police Ops 3  
+4352	Hastings Police Ops 3  
+4354	Inver Grove Heights Police Ops 3  
+4356	Lakeville Police Ops 3  
+4358	Mendota Heights Police Ops 3  
+4360	Rosemount Police Ops 3  
+4362	South St. Paul Fire Ops 3  
+4364	West St. Paul Police Ops 3  
+4366	Apple Valley Police Ops 4  
+4368	Burnsville Police  
+4370	Law Enforcement Common  
+4372	Eagan Police - 3300  
+4374	Farmington Police  
+4376	Hastings Police - 1400  
+4378	Inver Grove Heights Police - 3600  
+4380	Lakeville Police - 4800  
+4382	Mendota Heights Police - 2200  
+4384	Rosemount Police - 3500  
+4386	South St. Paul Police - 2100  
+4388	West St. Paul Police - 2600  
+4390	Apple Valley Police Admin.  
+4392	Burnsville Police Admin.  
+4396	Eagan Police 3300 Admin.  
+4398	Farmington Police Admin.  
+4400	Hastings Police Admin.  
+4402	Inver Grove Heights Police Admin.  
+4404	Lakeville Police Admin.  
+4406	Mendota Heights Police Admin.  
+4408	Rosemount Police Admin.  
+4410	South St. Paul Police Admin.  
+4412	West St. Paul Police Admin.  
+4414	Dakota County Pool 5 ?  
+4416	Dakota County Pool 6  
+4418	Dakota County Pool 7  
+4424	Jail 1  
+4426	Incident Command 1  
+4428	Incident Command 2  
+4430	Courts 1  
+4432	Courts 2  
+4434	Courts 3  
+4436	Information  
+4438	Administration  
+4440	Law Roaming 1  
+4442	SOT Main  
+4444	SOT Alternate  
+4456	Police Main 4  
+4506	Dakota ALL 4500 - 4502 - 4504  
+4577	Inver Hills Community College EMS program 1  
+4579	Inver Hills Community College EMS program 2  
+4600	DAKOTA COUNTY COMMON  
+4602	Public Works Common  
+4604	Highway Department Main ALL  
+4606	Highway Department Secondary  
+4608	Surveyor  
+4610	Facilities 1  
+4612	Facilities 2  
+4614	Facilities 3  
+4616	Apple Valley Public Works 1  
+4618	Apple Valley Public Works 2  
+4620	Apple Valley Public Common  
+4622	Burnsville Public Works 1  
+4624	Burnsville Public Works 2  
+4626	Burnsville Public Common  
+4628	Eagan Public Works 1  
+4630	Eagan Public Works 2  
+4632	Eagan Public Common  
+4634	Empire Township 1  
+4636	Farmington Public Works 1  
+4638	Farmington Public Works 2  
+4640	Farmington Public Common  
+4642	Hastings Public Works 1  
+4644	Hastings Public Works 2  
+4646	Hastings Public Common  
+4648	Inver Grove Heights Public Works 1  
+4650	Inver Grove Heights Public Works 2  
+4652	Inver Grove Heights Public Common  
+4654	Lakeville Public Works 1  
+4656	Lakeville Public Works 2  
+4658	Lakeville Common  
+4660	Mendota Heights Public Works 1  
+4662	Mendota Heights Public Works 2  
+4664	Mendota Heights Public Common  
+4666	Rosemount Public Works 1  
+4668	Rosemount Public Works 2  
+4670	Rosemount Common  
+4672	South St. Paul Public Works 1  
+4674	South St. Paul Public Works 2  
+4676	South St. Paul Public Common  
+4678	West St. Paul Public Works 1  
+4680	West St. Paul Public Works 2  
+4682	West St. Paul Public Common  
+4684	Public Works Statewide Roaming  
+4700	System Tech  
+4702	Training  
+4706	Goes off when there is a weather radio alert for Dakota County.  
+4754	Dakota County Public Health 1  
+4756	Dakota County Public Health 2  
+4758	Dakota County Public Health 3  
+4798	Fire All Call  
+4800	Public Health 1  
+4802	Public Health 2  
+4804	Public Health 3  
+4812	County Fire Dispatch   
+4814	Mdewakanton Sioux Fire - EMS Dispatch  
+4816	Mdewakanton Med Sioux Fire TAC  
+4818	Mdewakanton Sioux Med Fire TAC  
+4820	Mdewakanton Sioux MW Ops 1  
+4822	Mdewakanton Sioux MW L.E. C2C  
+4824	Sheriff's Main - North  
+4826	Sheriff's Main - South  
+4828	Sheriff's LE-Info  
+4830	Sheriff C2C (F3)  
+4832	LE TAC5 (Law Enforcement Tactical)  
+4834	LE TAC6 (Law Enforcement Tactical)  
+4836	LE INTEROP (Law Enforcement Interop between Scott & LeSueur County)  
+4838	COURTHOUSE  
+4840	JAIL  
+4844	SWAT  
+4852	LE ROAM  
+4854	Belle Plain Police Car to Car F3  
+4856	Elko Police Car to Car 3  
+4858	Jordan Police Car to Car F3  
+4860	New Prague Police Car to Car (F3)  
+4862	Prior Lake Police Car to Car (F3)  
+4864	Shakopee Police Car to Car (F3)   
+4866	County Wide Law Enf. C2C (SC LE Countywide)  
+4868	Savage Police Car to Car (F3)  
+4870	Southwest Area C2C  
+4872	Weather and Emergency Management Reports  
+4874	FireGround 5  
+4876	FireGround 6  
+4878	FireGround 7  
+4880	FireGround 8  
+4882	FireGround 9  
+4884	FireGround 10  
+4886	FireGround 11  
+4888	FireGround 12  
+4890	FD INTEROP (Fire Dept Interop between Scott & LeSueur County)  
+4892	FD ROAM  
+4894	Belle Plain Fire T2T  
+4904	New Prague Fire Truck 2 Truck  
+4906	Jordan Fire T2T F2  
+4910	Shakopee Fire T2T F2  
+4912	Shakopee Fire T2T F3  
+4914	Prior Lake Fire T2T F2  
+4916	New Prague   
+4918	Queen of Peace Hospital  
+4920	PUBLIC SAFETY COMMON  
+4922	Emergency Management Administration  
+4924	Highway Maint.  
+4926	Highway Maint.  
+4930	Highway Maint.  
+4936	Prior Lake City Shops 1  
+4938	Prior Lake City Shops 2  
+4942	Savage Public Works  
+4948	Emergency Mgmt. Events - Weather  
+4950	EVENTS 4  
+4952	EVENTS 5  
+4954	EVENTS 6  
+4956	EVENTS 7  
+4958	EVENTS 8  
+4960	EVENTS 9  
+4962	EVENTS 10  
+4964	EVENTS 11  
+4966	EVENTS 12  
+4968	EVENTS 13  
+4970	EVENTS 14  
+4972	EVENTS 15  
+4974	EVENTS 16  
+4976	Belle Plain City Common  
+4978	Jordan City Common  
+4980	New Prague City Common  
+4982	Prior Lake City Common  
+4984	Shakopee City Common  
+4986	Savage City Common  
+4990	Shakopee City Shop - Maintenance  
+4996	Highway Maint.  
+5400	Law 1 Dispatch  
+5401	Law 2 Dispatch  
+5402	Sheriff Car-2-Car.  
+5403	Law Ops 1  
+5406	County Roam  
+5413	Chisago Fire All  
+5415	Lakes Area Police  
+5418	North Branch PD  
+5422	Chisago Law  
+5425	Chisago Fire  
+5426	Chisago Fire  
+5427	Chisago Fire  
+5440	Fire -EMS Dispatch  
+5443	County fire Common  
+5446	FDIC 2  
+5449	Almeund Fire Tac   
+5455	Almeund Fire Tac   
+5458	Center City Fire Tactical  
+5461	Chisago City Fire Tactical  
+5464	Harris Fire Tactical  
+5467	Lindstrom Fire Tactical  
+5470	North Branch Fire Tactical  
+5473	Rush City Fire Tactical  
+5476	Shafer/Franconia Fire Tactical  
+5479	Stacy/Lent Fire Tactical  
+5482	Taylor's Falls Fire Tactical  
+5485	Wyoming Fire Tactical  
+5490	County Events  
+5546	Fire - IC ( Incident Command )  
+5549	Almeund Fire Tac  
+5876	NW ROAM  
+6000	Sheriff Admin  
+6002	Sheriff TAC 3  
+6004	Sheriff TAC 4  
+6006	Sheriff TAC 5  
+6008	Sheriff TAC 6  
+6010	Sheriff Roam   
+6012	Sheriff Patch  
+6014	Sheriff Dispatch  
+6016	Sheriff C2C  
+6018	Isanti Co C2C  
+6020	Isanti Co Jail  
+6022	County Law Tac  
+6024	County Law Tac  
+6026	Braham PD Adm  
+6028	Cambridge PD Adm  
+6030	Isanti PD Adm  
+6032	County Fire Dispatch  
+6034	Braham Fire Tac  
+6036	Cambridge Fire Tac  
+6038	Dalbo Fire Tac  
+6040	Isanti Fire Tac  
+6042	County Highway 1  
+6044	County Highway 2  
+6046	County Highway 3  
+6048	Braham Public Works  
+6050	Cambridge Public Works 1  
+6052	Cambridge Public Works 2  
+6054	Isanti Public Works 1  
+6056	Isanti Public Works 2  
+6600	Emergency  
+6602	County Roam  
+6620	Sheriff Dispatch  
+6640	Kanabec Fire Dispatch  
+6670	County EMS  
+6682	Mora Hospital  
+7200	Sheriff Dispatch - Simulcast  
+7201	Sheriff   
+7204	Pine Law All  
+7205	County Roam  
+7207	Fire - EMS Dispatch   
+7209	Pine Fire All  
+7217	Highway Dept. All  
+7218	Highway Dept.  
+7219	Jail - Court Security  
+7223	Askov Fire  
+7224	Brook Park Fire  
+7225	Bruno Fire  
+7226	Duxbury Fire  
+7227	Finlayson Fire  
+7228	Hinckley Fire  
+7229	Kerrick Fire  
+7230	Pine Fire  
+7231	Sandstone Fire  
+7232	Sturgeon Lake Fire  
+7233	Willow River Fire  
+7234	Sandstone Hospital - Essentia Health  
+8000	Test TG 1  
+8002	Test TG 2  
+8004	Test TG 3  
+8006	Test TG 4 ?  
+8008	Test TG 5 ?  
+8012	Test Multigroup  
+9980	MOTO System Technicians All  
+9982	MOTO System Technicians 1  
+9984	MOTO System Technicians 2  
+9986	MOTO System Technicians 3  
+9988	MOTO System Technicians 4  
+9990	MOTO System Technicians 5  
+9992	MOTO System Technicians 6  
+10000	Hennepin Security  
+10002	North Main Dispatch  
+10004	East Main Dispatch  
+10006	N West Law Enf. Car to Car  
+10008	Radio System Technician  
+10010	South Law Enf Car to Car  
+10012	Airport Police Car 2 Car  
+10014	Law Enforcemet Information Clerk  
+10016	Hennepin Fire Emergency  
+10018	Deephaven Police Car to Car  
+10020	Excelsior Fire Truck to Truck  
+10022	Mutual aid law enforcement tactical 3  
+10023	Mutual aid law enforcement tactical 4  
+10024	Fire TAC 3  
+10025	Fire TAC 7  
+10028	South Main Dispatch  
+10032	Loretto FD Truck to Truck  
+10034	Hennepin County Sheriff 911 Center  
+10036	Fire T2T TAC 2 - Truck to Truck Repeated  
+10038	Countywide Law Enforcement Car to Car  
+10040	Fire Main 1  
+10042	Champlin Police-City Police Car to Car  
+10046	Mutual aid law enforcement tactical 6  
+10048	HCMC Maintenance Dispatch  
+10050	Fire TAC 4  
+10051	Fire TAC 8  
+10052	Fire TAC 5  
+10053	Fire TAC 9  
+10054	Fire TAC 6  
+10055	Fire TAC 10  
+10056	POOL 1  
+10057	Fire TAC 11  
+10058	POOL 2  
+10060	County Roaming 1  
+10062	County Roaming 2  
+10064	St. Anthony Village Police Tactical  
+10066	Hennepin Security  
+10068	Hennepin Security  
+10072	Sheriff Department Wide TG  
+10074	System Technicians 2  
+10076	Hennepin Maint  
+10092	Medina DPW  
+10102	Wayzata Schools Buildings & Grounds  
+10104	Wayzata High Schools Cross Patch to UHF  
+10110	Sheriff Patrol Car to Car  
+10111	Hennepin Sheriff  
+10112	Sheriff 10112  
+10114	Sheriff 10114  
+10116	Sheriff Surveillance  
+10118	Sheriff - LE - Roam  
+10120	Sheriff Mutual aid law enforcement tactical 5  
+10122	Schools All Call  
+10124	Champlin Public Works Main  
+10128	Sheriff Tac  
+10130	Sheriff Tac  
+10132	EOD  
+10134	Sheriff CRT 1 Unit 1680 Ops  
+10136	Sheriff CRT 2 Unit 1680 Ops  
+10138	Sheriff Tac 10138  
+10142	Sheriff Tac 10142  
+10144	Sheriff ERU/SWAT  
+10148	Law Tac. All Call  
+10152	Corcoran City Common  
+10156	Human Resources  
+10160	Administration and buisness  
+10180	Sheriff Civil Warrant Channel - Old UHF 4  
+10190	Sheriff 10190  
+10198	Sheriff 10198  
+10212	Sheriff All  
+10214	Sheriff Narcotics 1  
+10216	Sheriff Narcotics 2  
+10218	Sheriff Warrant Service  
+10222	Sheriff Warrant Service  
+10228	Wayzata Fire Truck To Truck  
+10230	Hamel Fire Truck to Truck  
+10232	Court Security  
+10234	PSF Security  
+10236	Century-Ramar-No.Village HC Security-HCSO Courts  
+10238	H-110 Court security  
+10240	HCMC Maintenance 2 ?  
+10242	Hennepin Maint.  
+10244	HCMC Community Health 1  
+10246	County Health  
+10248	County Health  
+10250	PSF Security  
+10252	Brookdale-HC Security and HCSO Courts  
+10254	H R-Dale Court Security  
+10256	County Health  
+10260	PSF/ADC Tactical 2  
+10262	Health All Call  
+10264	Maint All Call  
+10266	H S-Dale Court Security  
+10267	Hennepin  
+10268	Three Rivers Park District - Police Car to Car  
+10270	PSF/ADC Tactical 3  
+10272	South Lake Minnetonka Police Car to Car  
+10276	Three Rivers All Call  
+10278	Property Services Security  
+10280	PSF/ADC Tactical 4  
+10284	Building Security  
+10290	ADC Maintenance  
+10292	ADC Supervisors  
+10296	Hennepin Maint.  
+10298	Hennepin Maint.  
+10300	Government Center Maintenance 1  
+10302	Government Center Maintenance 2  
+10304	Downtown Minneapolis Library  
+10306	Minneapolis Downtown Library Security  
+10308	Hennepin Maint.  
+10310	Security All Call  
+10312	Security All Call  
+10316	South Lake Minnetonka Public Works  
+10318	West Hennepin Public Safety - City Police Car to Car  
+10320	Three Rivers Park District - Police Patrol Operations 2  
+10322	Minnetrista Police Car to Car  
+10324	Wayzata Public Works 5  
+10326	Mound Police Car to Car  
+10328	Rogers Police Car to Car  
+10330	Public Works  
+10332	MARC 1/Emergency Services  
+10334	All City Police Car to Car - Or P Works  
+10352	Sheriff Emergency  
+10356	Mound Public Works  
+10358	Orono Police Car to Car  
+10360	Dayton Police Car to Car  
+10366	Court Security  
+10368	HCMC Security Dispatch  
+10370	PSF Security  
+10372	Long Lake Fire Truck to Truck 1  
+10374	Rogers Fire Truck to Truck  
+10376	Plymouth Fire Truck to Truck  
+10378	Hennepin Common (Mutual Aid)   
+10380	St. Bonifacious Fire Truck to Truck  
+10382	Maple Plain Fire Truck to Truck  
+10384	Wayzata Police Car to Car  
+10386	Wayzata Police Administrative  
+10388	Wayzata PW Streets  
+10396	Three Rivers Park District - Police Patrol Operations 3  
+10398	Water Patrol   
+10400	Lake Mtk/W Area Public Safety Mutual Aid & Coordination  
+10402	Sheriff Civil Warrants 2  
+10404	Sheriff Emergency Preparedness 1  
+10406	Medina Police Car to Car  
+10412	Emergency All Call  
+10414	Plymouth Police Tactical  
+10415	HC All Call For 10411 - 10413 - 10419  
+10416	Plymouth Police Event  
+10418	Maple Grove - Plymouth SWAT  
+10420	St. Anthony Fire-City Fire Truck to Truck  
+10422	Plymouth Police Car to Car  
+10424	Maple Grove Fire Truck to Truck  
+10426	West Metro Fire - City Fire All Call Multigroup  
+10428	HCMC Security 5  
+10430	St. Anthony Police Car to Car  
+10432	St. Anthony Village City Common  
+10436	Hennepin Maint.  
+10438	Crystal Police Car to Car  
+10440	New Hope Police Car to Car  
+10442	Robbinsdale Police Car to Car  
+10444	Robbinsdale Fire Truck to Truck  
+10446	East Law Enf Car to Car  
+10448	Law  
+10450	West Metro SWAT  
+10452	HCMC Maintenance 2  
+10454	Maple Grove Fire Admin  
+10456	Maple Grove Fire Tac  
+10458	Maple Grove All Call  
+10460	Golden Valley Police Car to Car  
+10466	School  
+10468	Court Sec All Call  
+10470	Brooklyn Park Police Car to Car  
+10472	Brooklyn Park DPW to PD Dispatch  
+10474	Brooklyn Park Citywide all departments  
+10476	Brooklyn Park PD Administrative  
+10480	Brooklyn Park Fire Truck to Truck  
+10482	Brooklyn Park PD   
+10484	Brooklyn Park PD Administrative  
+10486	Osseo Police Car to Car  
+10488	Osseo Fire Portables  
+10490	N East Law Enf. Car to Car  
+10496	Champlin - City Common  
+10498	Corcoran City Common  
+10504	Dayton Police Car to Car  
+10506	Dayton Fire Truck to Truck  
+10510	Maple Grove Police Car to Car  
+10512	Maple Grove Police Tactical  
+10514	Maple Grove Police Event 1  
+10516	Maple Grove Police Event 2  
+10526	Medicine Lake Fire Truck to Truck  
+10528	Brooklyn Park Fire Tactical  
+10530	Brooklyn Park Fire Administrative  
+10536	Minneapolis 911 Center  
+10538	Osseo  
+10542	Crystal - New Hope - West Metro Fire Operations 2 Portables  
+10544	Crystal - New Hope - West Metro Fire Operations 3 Admin.  
+10546	Robbinsdale or Wayzata Schools  
+10556	Robbinsdale-Armstrong High School Cross Patch to UHF  
+10562	Wayzata Schools - All Call  
+10574	Maple Grove PD Events 4  
+10576	Dayton Fire Operations 2  
+10580	Hamel Fire Operations 2 Portables  
+10582	Brooklyn Park Fire Operations 2 Portables  
+10584	Plymouth Fire Tactical  
+10586	Plymouth Fire All Call  
+10588	Southwest Regional Fire Cooperative Tac 2  
+10590	Southwest Regional Fire Cooperative Tac 3  
+10592	Southwest Regional Fire Cooperative Tac 4  
+10594	Edina Fire Dispatch Main  
+10596	Maple Grove Fire Inspections  
+10598	Wayzata Fire Truck to Truck  
+10602	Plymouth Fire Admin  
+10604	Osseo All Call  
+10606	City Common 1  
+10608	Golden Valley Fire Ops 2  
+10610	West Metro Fire - All Call  
+10612	Robbinsdale Fire Portables  
+10614	Golden Valley Fire Ops 3  
+10618	Golden Valley Public Works 1  
+10620	Golden Valley Police Car to Car  
+10622	Golden Valley City Common  
+10624	Hamel Fire   
+10626	Hamel Fire All Call  
+10628	Long Lake Fire Truck to Truck 2  
+10630	All City Fire Truck to Truck  
+10636	Lorreto FD ADM  
+10638	Loretto FD Truck to Truck 2 - All Call  
+10640	Mound Fire Operations 2 Portables  
+10642	Rogers Fire Operations 1  
+10644	Rogers All Call  
+10648	Golden Valley Public Works 2  
+10652	Robbinsdale Fire All Call  
+10654	Dayton All Call  
+10658	Excelsior Fire District All Call  
+10660	Excelsior Fire District Truck to Truck 3  
+10662	Excelsior Fire District Truck to Truck 4  
+10664	Long Lake Fire Truck to Truck 3  
+10666	Long Lake Fire Truck to Truck 4  
+10668	Mound Fire Portables  
+10670	Mound Fire Admin  
+10672	All Call For 10600 - 10674  
+10676	Golden Valley Public Works 3  
+10680	Plymouth All Call  
+10682	All Call For 10684 - 10686  
+10688	Wayzata Fire All Call  
+10692	HCMC Car-to-Car  
+10698	Public Works  
+10700	Medina Shop  
+10708	Public Works Flagging 1  
+10710	Public Works  
+10712	Public Works  
+10714	Public Works  
+10716	Public Works All  
+10718	Public Works Flagging 2  
+10720	Public Works Flagging  
+10722	Public Works Flagging 4  
+10724	Public Works Flagging 3  
+10726	Public Works  
+10728	Public Works Flagging  
+10734	Edina - Richfield Police Dispatch 1  
+10736	Edina Police 2 Car-to-Car  
+10738	Edina Police 3 Traffic  
+10740	Edina Police Car to Car  
+10744	Edina City Common  
+10746	Edina Fire Training  
+10750	Edina Fire Tac 2  
+10752	Edina Fire Station 1 Alerting  
+10754	Edina Fire Station 2 Alerting  
+10756	Edina Fire Tac 1 - All Alerts  
+10758	Edina Police INV  
+10760	Edina Tactical Response  
+10762	Long Lake Public Works  
+10766	Dayton Public Works  
+10774	Wayzata PW Utilities  
+10776	Shorewood Public Works  
+10778	Edina Public Works Main  
+10782	Edina Public Works Streets  
+10784	Edina Public Works  
+10786	Edina Public Works Supervisor  
+10788	Police Dispatch  
+10790	Hopkins Police Operations  
+10792	Hopkins Fire Operations 2  
+10794	Airport Police Dispatch  
+10796	Airport Fire Dispatch  
+10800	Police Patrol 2  
+10802	Police Dispatch  
+10804	Fire Dispatch  
+10806	Golden Valley Fire Dispatch  
+10808	Police Dispatch  
+10810	Fire Dispatch  
+10818	Plymouth Maintenance  
+10820	Southeast LE Car to Car  
+10826	City Common 2  
+10830	SW Metro ERT 1  
+10832	Plymouth Men  
+10834	Plymouth Women  
+10836	ACF workhouse  
+10838	Plymouth Tactical  
+10840	Fire Main 2  
+10842	Plymouth Supplies  
+10844	SW Metro ERT 2  
+10846	Plymouth Car to Car  
+10848	Fireground 2  
+10850	Airport Police 3  
+10852	Emergency Response  
+10854	Airport Police Adm.  
+10856	Police Car-to-Car  
+10858	Airport Fire 3  
+10860	Airport Fire 1  
+10862	Airport Fire 2  
+10864	Airport Fire All Call  
+10866	Field Ops 1  
+10868	Field Ops 2  
+10870	Field Ops 3  
+10872	Field Ops 4  
+10874	Field All Call  
+10876	Airport Operations  
+10878	Airport Common  
+10880	Airport Tactical 1  
+10882	Airport Tactical 2  
+10884	Airport Tactical 3  
+10886	MAC Operations  
+10888	Airport Fire 2  
+10894	Highway Maintenance  
+10902	Hopkins Police Tactical  
+10904	Hopkins City Common  
+10906	Hopkins Fire Truck to Truck  
+10908	Hopkins Fire Operations 3  
+10910	Wayzata City Common  
+10912	Lakes Area Emergency TG  
+10914	ACF workhouse  
+10916	Plymouth All Call  
+10926	Police Car to Car  
+10928	Police SE-1  
+10930	Police SE-2  
+10932	Police Traffic 1  
+10934	Police Traffic 2  
+10936	Police Tac 1  
+10938	Police Tac 2  
+10940	City Common  
+10942	Police 10942  
+10944	Police 10944  
+10946	Animal Wardens  
+10948	Radio Technicians  
+10950	Fire Prevention  
+10952	Fireground 2  
+10954	Fireground 3  
+10956	Fireground 4  
+10958	Fireground 5  
+10960	Public Works  
+10962	Fire Training  
+10964	Fire Admin  
+10966	Fire Command  
+10970	Home School 1 Main - Juveniles  
+10972	Home School 2  
+10974	Home School 3  
+10976	Home School 4  
+10978	Home School 5  
+10982	Juv Center 2  
+10990	Hanover - Fire Truck to Truck  
+10996	Brooklyn Center Police Car to Car  
+11000	Brooklyn Center Police Tac1  
+11002	Brooklyn Center Police Tal 2  
+11004	Brooklyn Center Fire Truck 2 Truck  
+11006	Brooklyn Center Fire Portables  
+11012	Medina City Common  
+11018	Deephaven City Common  
+11022	Law Tac  
+11028	Airport Maintenance 1 Electricians  
+11030	Airport Maintenance 2 Environmental Services  
+11032	Fire Truck to Truck  
+11034	Fire Portable to Portable  
+11036	City Common  
+11038	DPW  
+11040	Police 2  
+11042	VAMC Police Dispatch  
+11048	Weapons of Mass Destruction 1  
+11050	Weapons of Mass Destruction 2  
+11052	Weapons of Mass Destruction 3   
+11054	Weapons of Mass Destruction 4  
+11056	Weapons of Mass Destruction ALL  
+11060	Police Patrol 1  
+11062	Police INV-1  
+11064	Fire Main 1 - Dispatch  
+11066	Fire Admin  
+11076	Southwest Regional Fire Cooperative Tac 5  
+11078	Southwest Regional Fire Cooperative Tac 6  
+11080	Southwest Regional Fire Cooperative Tac 7  
+11084	Utlilities  
+11086	Public Works  
+11088	City Administration  
+11090	Police ERU  
+11092	Fire Main  
+11094	COMSTF  
+11148	Richfield Police Tac 1  
+11152	Richfield Police Car to Car  
+11154	Richfield Police Event  
+11156	Richfield Police Reserves  
+11158	Richfield Fire Station 1 Alerting  
+11160	Richfield Fire Dispatch Main  
+11162	Richfield Fire Event  
+11164	Richfield City Common  
+11172	Richfield Fire Station 2 Alerting  
+11202	Plymouth PD  
+11204	Violent Offenders Task Force  
+11210	New Hope City Common  
+11220	Police Patrol 3  
+11222	High School Security  
+11224	EP Center  
+11226	Flying Cloud Airport ATC Link 1  
+11230	Police Administration  
+11232	PS CMD  
+11234	Fireground 1  
+11236	Fireground 2  
+11238	Fireground 3  
+11240	Fireground 4  
+11242	Fire Inspection  
+11244	Bus Operations 1  
+11245	ISD #272 Transportation 1  
+11246	Bus Operations 2  
+11248	Supervisors  
+11250	Bus Operations 4  
+11252	Bus Operations 5  
+11254	Crystal City Common  
+11256	Crystal Public Works  
+11260	Minneapolis VAMC Car to Car  
+11274	Emergency  
+11294	Bloomington  
+11295	Plymouth Common  
+11297	Wayzata Schools Transportation  
+11299	Wayzata West Middle School  
+11484	Champlin Public Works - Water/Sewer  
+11490	Robbinsdale Schools  
+11492	Robbinsdale Schools  
+11494	Robbinsdale Schools Emergency Cross Patch to UHF  
+11496	Robbinsdale Schools  
+11498	Robbinsdale Schools  
+11500	Ramsey Co Common  
+11502	Ramsey Pool 1  
+11504	Ramsey Pool 2  
+11506	Ramsey Pool 3  
+11508	Ramsey Pool 4  
+11516	Ramsey LAW Dispatch East  
+11518	Ramsey LAW Dispatch Central  
+11520	Ramsey LAW Dispatch West  
+11522	Ramsey Fire Dispatch South - St. Paul  
+11524	Ramsey Fire Dispatch North  
+11526	Ramsey LAW Data North  
+11530	"Ramsey ""Lower 2"" Deputy Car to Car  "
+11532	SP PD Ch 5 Information/Records  
+11536	Ramsey Pool 5  
+11538	Ramsey Pool 6  
+11540	Ramsey Pool 7  
+11542	Ramsey Pool 8  
+11544	Ramsey Pool 9  
+11546	Ramsey Pool 10  
+11548	LE Tactical 1  
+11550	LE Tactical 2  
+11554	LE VARDA  
+11558	SP PD Ch 1 West  
+11560	SP PD Ch 2 Central  
+11562	SP PD Ch 3 East  
+11564	North Suburban Hazardous Matrerials Team Tactical 2  
+11566	North Suburban Hazardous Matrerials Team Tactical 3  
+11570	LE 1  
+11572	LE 2  
+11574	LE 3  
+11576	LE 4  
+11578	LE 5  
+11580	LE 6  
+11582	LE 7  
+11584	LE 8  
+11586	LE 9  
+11588	LE 10  
+11590	LE 11  
+11592	LE 12  
+11594	Swat 1   
+11596	LE 14  
+11598	LE 15  
+11600	SO Park Patrol  
+11602	SO Water Patrol  
+11614	County Court Security Main  
+11628	Jail Operations  
+11630	Ramsey  
+11632	Fire Admin  
+11634	Fire Ops 4  
+11636	Fire Ops 5  
+11638	Fire Ops 6  
+11640	Fire Ops 7  
+11642	Fire Ops 8  
+11644	Fire Ops 9  
+11646	Fire Ops 10  
+11650	Public Works 1 Main  
+11652	Public Works 2 Truck to Truck  
+11654	Public Works 3 Flagging  
+11656	Public Works 4  
+11658	Public Works 5  
+11660	Public Works 6  
+11662	Public Works 7  
+11664	Public Works 8 Sign Shop  
+11666	Public Works 9 Roads  
+11668	Public Works 10 All Call  
+11700	Jail Control  
+11710	Jail Operations  
+11718	Jail Operations  
+11958	Automated Fire Dispatch Testing  
+11960	Training TG  
+11962	Training TG  
+11964	Training TG  
+11966	Training TG  
+11968	Training TG  
+11970	Training TG  
+11972	Ramsey Fire   
+11974	Ramsey Fire   
+11976	Ramsey Fire   
+11978	Ramsey Fire   
+11980	Ramsey Fire   
+11984	Ramsey Fire   
+11986	Ramsey Fire   
+11988	Ramsey Fire All Call  
+11990	Ramsey County Emerg. Mgmt. 1  
+11992	Ramsey County Emerg. Mgmt. 2  
+11994	Ramsey County Emerg. Mgmt. 3  
+11997	Ramsey County Public Health Department  
+12000	New Brighton city common  
+12002	New Brighton PD Car to Car  
+12004	New Brighton Fire Department Fireground 2  
+12006	New Brighton fireground 3  
+12012	North St. Paul City Common  
+12014	N. St. Paul Police Car to Car  
+12016	N. St. Paul Fire Fireground 2  
+12018	N. St. Paul Fire Fireground 3  
+12030	Mounds View Police Car to Car  
+12050	Roseville police car to car  
+12052	Roseville City Common  
+12054	Roseville Police Tactical  
+12056	Roseville Fire Fireground 2  
+12058	Roseville fireground 3  
+12062	Roseville Fire All  
+12064	RPD / Rosedale link   
+12070	Falcon Heights Fire Fireground 2  
+12072	Falcon Heights Fire Fireground 3  
+12080	Lake Johanna Fire Fireground 2  
+12082	Lake Johanna Fire Fireground 3  
+12098	White Bear Lake Common  
+12100	White Bear Lake Police Main Disp.  
+12102	White Bear Lake Police Channel 2  
+12104	White Bear Lake Fireground 2  
+12106	White Bear Lake Fireground 3  
+12108	White Bear Lake Fire Main 1  
+12110	White Bear Lake Public Works  
+12120	Maplewood City Common  
+12122	Maplewood Police Car to Car  
+12124	Maplewood Fireground 2  
+12128	Maplewood Police Tactical  
+12140	Little Canada Fire Fireground 2  
+12142	Little Canada Fire Fireground 3  
+12150	Vadnais Heights fireground 2  
+12178	Shoreview Public Works  
+12190	White Bear Township Public Works  
+12376	School Transportation Dispatch  
+12378	School Transportation Safety  
+12382	School Transportation Supervisor  
+12400	SP PD Ch 4 Car to Car  
+12402	SPPD 1  
+12404	St. Paul Common 3  
+12408	Operations 1  
+12410	Operations 2  
+12412	Operations 3  
+12414	Operations 4  
+12416	St. Paul Animal Control  
+12424	Police   
+12426	Police  
+12428	Police  
+12440	Police  
+12442	Police  
+12450	Fire / Rescue Dispatch  
+12452	Fireground  
+12454	Paramedics  
+12456	FD 4  
+12458	FD 5  
+12460	FD 6  
+12462	FD 7  
+12464	FD 8  
+12466	FD 9  
+12468	FD 10  
+12470	FD 11  
+12472	FD 12  
+12474	FD 13 - EOC Channel  
+12476	Fire Prevention  
+12478	Fire Prevention  
+12480	Parks & Recreation 1  
+12482	Parks & Recreation 2  
+12484	Parks & Recreation 3  
+12486	Parks & Recreation 4 Maintenance  
+12500	St. Paul City 1  
+12514	St. Paul City 2  
+12552	Public Works 1 Main  
+12554	Public Works 2  
+12556	Public Works 3  
+12558	Public Works 4 Streets 1  
+12560	Public Works 5 Streets 2  
+12562	Public Works 6  
+12564	Public Works 7  
+12566	Public Works 8  
+12568	Public Works 9  
+12570	Public Works 10  
+12572	Public Works 11  
+12574	Public Works 12  
+12576	State Fair Police 1  
+12578	State Fair Police 2  
+12580	State Fair Police 3  
+20000	SE MN Radio Technicians Rochester  
+20001	Southeast Tactical 10  
+20002	Southeast Tactical 2  
+20003	Southeast Tactical 11  
+20004	Southeast Tactical 3  
+20005	Southeast Tactical 12  
+20006	Southeast Tactical 4  
+20007	Southeast Tactical 13  
+20008	Southeast Tactical 5  
+20009	Southeast Tactical 14  
+20011	Southeast Tactical 15  
+20012	Southeast Tactical 6  
+20013	NWS Lacrosse  
+20014	Southeast Tactical 7  
+20016	Southeast Tactical 8  
+20018	Southeast Tactical 9  
+20020	Medical Air - Soft Patch With MINSEF   
+20022	SE MN EOC  
+20024	"Rochester ""2100"" Dispatch  "
+20025	"Rochester ""2100"" Roaming  "
+20026	"Rochester ""2100"" TAC 2  "
+20028	"Rochester ""2100"" TAC 1  "
+20030	"Rochester ""2100"" - All Call  "
+20032	"Rochester ""2100"" TAC 3  "
+20050	DOT Rochester  
+20052	District 6A Hail Main Rochester - Owatonna  
+20054	District 6B Main  
+20056	DOT Rochester To SP Dispatch - Emergency  
+20058	DOT Rochester 20058  
+20059	DOT Rochester TAC 5  
+20060	DOT Rochester 20060  
+20061	DOT Rochester TAC 6  
+20062	DOT Rochester 20062  
+20063	DOT Rochester TAC 7  
+20064	DOT Rochester 20064  
+20065	DOT Rochester TAC 8  
+20066	DOT Rochester 20066  
+20067	DOT Rochester All Call  
+20068	DOT Rochester 20068  
+20072	DOT Rochester 20072  
+20074	DOT Rochester 20074  
+20076	DOT Rochester 20076  
+20078	DOT Rochester 20078  
+20080	DOT Austin  
+20082	DOT Red Wing  
+20084	DOT Rochester Truck Station  
+20086	DOT Albert Lea Truck Station  
+20088	DOT Owatonna Truck Station  
+20090	DOT Winona?  
+20091	DOT St. Charles Truck Station  
+20092	DOT Rochester  
+20094	DOT Dresbach Truck Station   
+20108	EOC - SE MN Weather Spotters - La Crosse NWS  
+20110	DOT Mankato 20110  
+20112	DOT Mankato District 20112  
+20114	DOT Mankato District 20114  
+20116	"Mankato ""2200"" Dispatch  "
+20117	"Mankato ""2200"" Accident Investigation  "
+20118	"Mankato ""2200"" Tactical 2  "
+20119	"Mankato ""2200"" Roaming  "
+20120	"Mankato ""2200"" District Tactical 1  "
+20122	"Mankato ""2200"" District Tactical 3 - All Call  "
+20124	DOT Mankato - Worthington  
+20126	DOT Mankato - All Call  
+20128	DOT Mankato Emergency to MSP  
+20130	DOT Mankato District 20130  
+20132	DOT Mankato 20132  
+20134	DOT Mankato 20134  
+20136	DOT Mankato 20136  
+20142	DOT Mankato - LeSueur  
+20144	DOT Mankato - Mankato  
+20146	DOT Mankato - Mapleton  
+20148	DOT Mankato 20148  
+20156	DOT Mankato - St. James  
+20158	DOT Mankato - Windom  
+20160	DOT Mankato 20160  
+20164	MCF Faribault Main  
+20166	MCF Faribault (Possibly Maintenance)  
+20168	MCF Faribault (Possibly Operational Security)  
+20170	MCF Faribault (Possibly Operational Security)  
+20172	MCF Faribault (Possibly Operational Security)  
+20174	MCF Faribault (Possibly Operational Security)  
+20180	MCF Red Wing   
+20196	Sex Offender Program St. Peter Main 1  
+20198	Sex Offender Program St. Peter Transportation 2  
+20200	Sex Offender Program St. Peter Emergency 3  
+20202	Sex Offender Program St. Peter MTC 4  
+20204	Sex Offender Program St. Peter Incident Command 5  
+20206	Sex Offender Program St. Peter 6  
+20208	Sex Offender Program St. Peter 7  
+20210	Sex Offender Program St. Peter 8  
+20212	S Central Call  
+20214	S Central TAC 2  
+20216	S Central TAC 3  
+20218	S Central TAC 4  
+20220	S Central TAC 5  
+20222	S Central TAC 6  
+20224	S Central TAC 7  
+20226	S Central TAC 8  
+20228	S Central TAC 9  
+20230	S Central TAC 10  
+20232	S Central TAC 11  
+20234	S Central TAC 12  
+20236	DOT Worthington to MSP  
+20248	Parks District 8 Main  
+20249	Parks District 8 Tactical  
+20250	Beaver Creek Valley State Park 1  
+20251	Beaver Creek Valley State Park 2  
+20252	Carley State Park 1  
+20253	Forestville / Mystery Cave State Park 1  
+20254	Forestville / Mystery Cave State Park 2  
+20255	Frontenac State Park 1  
+20256	Frontenac State Park 2  
+20257	Great River Bluffs State Park 1  
+20258	Great River Bluffs State Park 2  
+20259	Lake Louise State Park 1  
+20260	Whitewater State Park 1  
+20261	Whitewater State Park 2  
+20264	Sakatah Lake State Park  
+20270	Minneopa State Park  
+20300	Olmsted County Building Maintenance 1  
+20302	Olmsted County Building Maintenance 2  
+20305	Rochester Public Works - Streets  
+20325	Mayo Civic Center  
+20340	"Olmsted County Public Works ""7""   "
+20341	SE CALL  
+20343	Public Utilities Operations  
+20345	Public Utilities  
+20348	Public Utilities Generation Plant  
+20355	Public Utilities Collections  
+20356	Landfill Olmsted County  
+20375	Mayo Civic Center  
+20378	County Ops 10  
+20381	Mayo Civic Center  
+20385	Rochester Transit Buses  
+20391	Rochester Public Utilities  
+20394	Rochester Public Utilities  
+20397	Rochester All Call  
+20398	Rochester ZIPS Paratransit  
+20402	All Users Tactical 1  
+20404	All Users Tactical 2  
+20406	All Users Tactical 3  
+20408	All Users Tactical 4  
+20424	Rochester Park & Rec  
+20428	Rochester Park Operations 1  
+20430	Rochester Park Operations 2  
+20432	Oxbow Park Olmsted County  
+20434	Gold Cross Ambulance Dispatch - Rochester (simulcast of 155.2800)  
+20440	Rochester Airport Fire Tactical  
+20444	Byron Fire Tactical  
+20448	Rochester Airport Fire Dispatch  
+20456	LEC 2 ALT  
+20458	Eyota Fire  
+20466	Rochester Police Tactical Car to Car  
+20472	Rochester Fire Department OP 2  
+20476	Rochester Fire Dispatch (154.370)  
+20478	Rochester Fire  
+20480	Rochester Fire  
+20482	Rochester Fire OP 3  
+20484	Rochester Fire  
+20492	Rochester Fire - Mayo Clinic Incidents  
+20494	County Fire  
+20496	Byron Fire  
+20498	Oronoco Fire  
+20502	LEC 2  
+20506	LEC 1  
+20514	Sheriff - Invesigations  
+20520	Park Patrol  
+20522	County System Technicians  
+20526	Rochester Police Car to Car  
+20534	Sheriff Tactical Car to Car  
+20536	Court Baliffs  
+20540	Sheriff - Tactical 4  
+20542	Sheriff - Tactical 5  
+20544	Sheriff - Tactical 6  
+20546	Sheriff - Tactical 7  
+20548	Sheriff - Tactical 8  
+20550	Public Safety Tactical 1  
+20552	Public Safety Tactical 2  
+20554	Public Safety Tactical 3  
+20556	Public Safety Tactical 4  
+20558	County Roaming  
+20560	Emergency Operations Center  
+20562	EOC Tactical 1  
+20564	EOC Tactical 2  
+20588	SE MN MINSEF Patch  
+20592	SE MN Department of Health  
+20598	Rochester Methodist Hospital  
+20601	Law Enforcement Dispatch  
+20607	Fire - EMS Paging  
+20616	County Roam  
+20820	Law Enforcement Dispatch 1  
+20821	Law Enforcement Dispatch 2  
+20822	Fire - EMS Dispatch  
+20829	County Roam  
+21000	Snow Events RWPW  
+21001	Law Main 1 - Sheriff Dispatch  
+21002	Red Wing Public Works  
+21003	Law Main 2 - Red Wing PD Dispatch - Prairie Island Tribal PD law main  
+21004	Red Wing Solid Waste  
+21006	County Court  
+21007	County Fire EMS Main - Paging  
+21008	County Highway Department  
+21009	Goodhue Ops 7  
+21010	Goodhue County Fire  
+21011	Goodhue OPS 8  
+21013	Goodhue OPS 9  
+21014	County Roam  
+21017	Goodhue Ops 11  
+21019	Prairie Island Public Works  
+21023	Red Wing Fire  
+21026	Zumbrota EMS  
+21029	Zumbrota Fire Ops  
+21031	Wanamingo Fire Ops  
+21032	Cannon Falls Fire - Ambulance  
+21037	P Common - CH 3  
+21045	Red Wing PD Ops   
+21048	Zumbrota PD Ops  
+21050	Kenyon Common  
+21052	Red Wing Common - Paging  
+21057	Prairie Island PD Ops  
+21059	Treasure Island Security - Law Hailing  
+21060	Red Wing DPW 1  
+21061	Red Wing DPW 2  
+21063	Red Wing Street Department  
+21067	Public Works All Call  
+21202	Wabasha County Jail  
+21205	Law  
+21212	County Highway Dept  
+21230	Wabasha Co Interop 4  
+21231	Wabasha Co Interop 5  
+21232	Wabasha Co Interop 6  
+21233	Wabasha Co Interop 7  
+21234	Wabasha Co Interop 8  
+21235	Wabasha Co Interop 9  
+21236	Wabasha Co Interop 10  
+21237	Wabasha Co Interop 11  
+21246	Sheriff Dispatch  
+21248	Fire/EMS Main  
+21249	Fire/EMS Page  
+21261	Pepin County WI  
+21400	Winona Fire 3  
+21401	Sheriff Dispatch  
+21402	Winona County Fire Dispatch  
+21404	Winona Fire 4  
+21406	Winona Ops 6 ?  
+21408	Winona Ops 7  
+21410	Winona911  
+21411	EOC Emerg. Ops - Storm Chasers  
+21419	Winona Intercom  
+21428	Winona Co Maint.  
+21432	Winona City Fire Dispatch  
+21438	Winona Fire 7   
+21441	Winona Soar  
+21442	Winona Fire 2  
+21443	Winona Dive Rescue  
+21444	Winona Ops 9  
+21445	Winona Fire 1  
+21446	Winona Ops 10  
+21448	Winona Ops 11  
+21449	Winona City Police Dispatch  
+21450	Winona Ops 12  
+21451	Winona PD  
+21452	Winona Ops 13  
+21464	Goodview Police  
+21465	Winona City Police  
+21468	Sheriff 2E  
+21472	Winona Co jail 2  
+21474	Winona Co jail 1  
+21476	St. Charles PD Channel 2  
+21480	Winona Area Ambulance Service  
+21482	Winona Pub Health  
+21484	Winona City Works  
+21486	County Higheay Dept.  
+21494	GDVW Public Works  
+21598	Rochester Methodist Hospital  
+21600	SE MN Hospitals EMS  
+21605	Mayo - Rochester Operations 2  
+21607	Austin On Call  
+21608	Mayo - Rochester Patient Update  
+21609	Austin Dispatch  
+21610	Mayo - Rochester Dispatch  
+21611	Owatonna On Call  
+21612	Mayo - Rochester Operations 1  
+21613	Austin Operations 1  
+21614	Gold Cross - Rochester - Saint Marys  
+21615	Austin Operations 2  
+21616	Olmsted Medical Center (Rochester)  
+21617	Owatonna Dispatch  
+21618	St Mary's Incoming Patient Information  
+21619	Mayo One Southeast Air Operations  
+21620	Red Wing Hospital Patient Info.  
+21621	Owatonna Operations 1  
+21622	Albert Lea Medical Center  
+21623	Owatonna Operations 2  
+21624	Austin Medical Center  
+21625	Mankato Dispatch  
+21626	District One Hospital (Faribault)  
+21627	Mankato On Call  
+21628	Lake City Hospital  
+21629	Mankato Operations 1  
+21630	Wabasha Hospital  
+21631	Fairmont On Call  
+21632	Winona Hospital  
+21633	Fairmont Dispatch  
+21634	Mayo Cannon Falls Hospital  
+21635	Unassigned  
+21636	Owatonna Hospital Patient Info  
+21637	Fairmont Operations 1  
+21638	Federal Medical Center Rochester  
+21639	Mayo One South Central Air Operations  
+21819	County Roam  
+21823	Freeborn Co Fire Main  
+21824	Freeborn Co Fire Ops 1  
+21825	Freeborn Co Fire Ops 2  
+21826	Freeborn Co Fire Ops 3  
+21827	Albert Lea City Fire Tactical  
+21828	Albert Lea Township Fire Tactical  
+21829	Alden Fire Tactical  
+21830	Clarks Grove Fire Tactical  
+21831	Conger Fire Tactical  
+21832	Emmons Fire Tactical  
+21833	Freeborn Fire Tactical  
+21834	Geneva Fire Tactical  
+21835	Glenville Fire Tactical  
+21836	Hartland Fire Tactical  
+21837	Hayward Fire Tactical  
+21838	Hollandale Fire Tactical  
+21839	London Fire Tactical  
+21840	Manchester Fire Tactical  
+21841	Myrtle Fire Tactical  
+21842	Freeborn Co Fire Emergency  
+21843	Freeborn Co Law Enforcement Dispatch 1  
+21844	Freeborn Co Law Enforcement Dispatch 2  
+21845	Freeborn Co Law Enforcement Dispatch 3  
+21846	Freeborn Co Law Enforcement Dispatch 4  
+21847	Freeborn Co Law Enforcement Ops 1  
+21848	Freeborn Co Law Enforcement Ops 2  
+21849	Freeborn Co Law Enforcement Ops 8  
+21850	Freeborn Co Law Enforcement Ops 9  
+21851	MCHS Albert Lea Dispatch  
+21852	MCHS Albert Lea Operations 1  
+21853	MCHS Albert Lea Operations 2  
+21855	MCHS Albert Lea On Call  
+22000	Law Enforcement Dispatch 1  
+22001	Law Enforcement Dispatch 2  
+22002	Law Enforcement Car to Car  
+22016	Houston Law TAC  
+22017	County Roaming  
+22023	County fire Dispatch  
+22029	Calidonia City Utility  
+22030	County Highway Dept.  
+22200	Law Enforcement Dispatch 1  
+22201	Law Enforcement Dispatch 2  
+22205	Austin Law Tac  
+22207	County Fire Dispatch  
+22211	Austin Fire  
+22212	Roaming  
+22224	Brownsdale Fire Truck To Truck  
+22401	Steele Co Law Main  
+22403	Law Car to Car  
+22405	Jail Ops  
+22410	Owatonna Police Reserves  
+22416	Steele Co Fire Main  
+22417	Owatonna FD Ops 1  
+22418	Owatonna FD Ops 2  
+22419	Owatonna FD Ops 3  
+22420	Blooming Prairie FD Ops 1  
+22421	Blooming Prairie FD Ops 2  
+22422	Ellendale FD Ops 1  
+22423	Ellendale FD Ops 2  
+22424	Medford FD Ops 1  
+22425	Medford FD Ops 2  
+22430	County Highway Dept.  
+22435	County Landfill  
+22436	Courthouse - LEC Maintenance?  
+22438	Owatonna Public Works Tac 1  
+22441	HIGHWAY MAINTENANCE  
+22442	HIGHWAY MAINTENANCE FLAGGING  
+22445	PW COM 1  
+22446	PW COM 2  
+22459	County Law  
+22600	Rice Emergency Alarm  
+22601	Law Enforcement 1 Main  
+22602	Law Enforcement 2 Car to Car  
+22603	Rice Investigations  
+22604	Rice Sheriff OPS 1  
+22605	Faribault PD OPS 1  
+22607	Northfield PD OPS 1  
+22611	Rice Drug Task Force 1  
+22612	Rice Drug Task Force 2  
+22617	Rice County Sheriff Court - Jail  
+22619	Rice Law  
+22621	County Fire MAIN  
+22622	Fairbault Fire 1  
+22623	Faribault Fire OPS  
+22625	Northfield Fire 1  
+22626	Northfield Fire OPS  
+22628	Lonsdale Fire  
+22631	Morristown Fire  
+22634	Nerstrand Fire  
+22637	Rice Fire Tactical 1  
+22638	Rice Fire Tactical 2  
+22640	Rice County Fire OPS 1  
+22641	Rice County Fire OPS 2  
+22643	Morristown Common  
+22645	Lonsdale Common  
+22647	Dundas Common  
+22660	Rice Pool 10  
+22661	Rice Pool 11  
+22662	Rice Pool 12  
+22663	Rice Pool 13  
+22667	Rice County Roam  
+22671	Rice County Highway  
+22675	Fairbault Public Works 1  
+22676	Fairbault Public Works 2  
+22677	Northfield Public Works  
+24000	Cent Minn Fire Mutual Aid  
+24002	Central Minnesota Emergency Management  
+24004	Cent Minn Tac 24004  
+24006	CM Tactical 5  
+24008	CM Tactical 6  
+24010	CM Tactical 7  
+24012	CM Eencrypted 5  
+24014	CM Eencrypted 6  
+24016	Cent Minn Tac 24016  
+24018	System Tech's / Stearns County Area  
+24020	CM Tactical 12  
+24022	CM Encrypted 1  
+24024	CM Encrypted 2  
+24026	CM Encrypted 3  
+24028	CM Encrypted 4  
+24030	Central Minnesota Call  
+24032	CM Tactical 2  
+24034	CM Tactical 3  
+24036	CM Tactical 4  
+24038	CM Tactical 8  
+24040	CM Tactical 9  
+24042	CM Tactical 10  
+24044	CM Tactical 11  
+24046	Statewide Tactical 3  
+24048	Statewide Tactical 4  
+24050	System Technicians Willmar  
+24052	"St. Cloud ""2600"" Dispatch  "
+24053	"St. Cloud ""2600"" Roaming  "
+24054	"St. Cloud ""2600"" TAC 2  "
+24056	"St. Cloud ""2600"" TAC 1  "
+24057	"St. Cloud ""2600""   "
+24058	"St. Cloud ""2600"" TAC 3 - All Call  "
+24059	"St. Cloud ""2600"" Truck Reg. TAC  "
+24060	System Technicians Zone 4  
+24068	"St. Cloud ""2600"" TAC   "
+24070	DOT Willmar 24070  
+24078	DOT Silver Lake  
+24100	Statewide Tactical 7 (F TAC 3)  
+24101	DOT 3 24101  
+24102	Statewide Tactical 8 (F TAC 4)  
+24103	DOT 3 24103  
+24104	Law Enforcement Tactical 3  
+24106	Law Enforcement Tactical 4  
+24110	Law Enforcement Tactical 5 Enc  
+24111	Law Enforcement Tactical 7 Enc  
+24112	Law Enforcement Tactical 6 Enc  
+24113	Law Enforcement Tactical 8 Enc  
+24114	Special Investigative Unit Tactical 1  
+24115	Special Investigative Unit Tactical 3  
+24116	Special Investigative Unit Tactical 2  
+24117	Special Investigative Unit Tactical 4  
+24119	Willmar Treatment Center  
+24136	DOT 3 All Call  
+24138	DOT 3B Main  
+24140	DOT St. Cloud - State Patrol Emergency  
+24141	DOT Brainerd - State Patrol Emergency  
+24142	DOT 3 24142  
+24144	DOT 3 24144  
+24145	DOT 3 24145  
+24146	DOT 3 24146  
+24148	DOT Elk River Truck Station  
+24150	DOT St. Cloud Metro Truck Station  
+24152	DOT 3 24152  
+24154	DOT 3 24154  
+24156	DOT 3 24156  
+24158	DOT 3 24158  
+24160	DOT ST CLOUD  
+24166	DOT 3 24166  
+24168	DOT 3 24168  
+24170	DOT 3 24170  
+24172	DOT 3 24172  
+24173	DOT 3 24173  
+24174	MnDOT Brainerd  
+24178	District 3B Tactical 1  
+24180	District 3B Tactical 2  
+24182	DOT 3 24182  
+24184	DOT 3 24184  
+24185	DOT Brainerd  
+24187	DOT Pine River - Aitkin  
+24188	DOT Monticello Truck Stations  
+24190	DOT 3 24190  
+24194	DOT Cambridge   
+24196	DOT 3 24196  
+24200	DOT 3 24200  
+24202	DOT 3 24202  
+24204	DOT DL All Call  
+24206	DOT DL TAC  
+24208	DOT DL Emergency to State Patrol  
+24210	DOT DL TAC 24210  
+24214	DOT DL Bridges  
+24216	DOT DL TAC 24216  
+24218	DOT DL - D4- TAC 1  
+24220	DOT DL - Erhard - F. Falls - Henning - Alex. - Evans.  
+24222	DL VHF OVERLAY TESTING  
+24224	DOT DL 24224  
+24226	DOT DL 24226  
+24228	DOT DL - Barn. - Mhd. - Hawley  
+24230	DOT DL - Wheaton - Glenwood - Ortonville - Appleton - Morris  
+24232	DOT DL 24232  
+24234	DOT 3 24234  
+24236	DOT DL 24236  
+24238	DOT DL 24238  
+24240	DOT DL 24240  
+24242	DOT DL 24242  
+24244	DOT DL 24244  
+24248	DOT DL 24248  
+24250	DOT DL - D4-TAC 2  
+24252	DOT DL - Lakes - Perham - Mahn.  
+24254	DOT DL TAC 24254  
+24256	MCF St. Cloud - Main Operations  
+24258	MCF St. Cloud - Local Maintenance  
+24260	MCF St. Cloud - Operational Security 3  
+24262	MCF St. Cloud - Operational Security 4  
+24264	MCF St. Cloud - Operational Security 5  
+24266	MCF St. Cloud - Operational Security 6  
+24268	MCF St. Cloud - Alert Tone All Call  
+24270	MCF St. Cloud - Emergency Alert All Call  
+24271	MSP Training 1  
+24272	MSP Training 2  
+24273	MSP Training 3  
+24274	MSP Training 4  
+24275	MSP Training 5  
+24276	MSP Training 6  
+24277	Parks District 1 Main  
+24278	Parks District 1 Tactical  
+24279	Glacial Lakes State Park 1  
+24280	Glacial Lakes State Park 2  
+24281	Buffalo River State Park 1  
+24282	Buffalo River State Park 2  
+24283	Lake Carlos State Park 1  
+24284	Lake Carlos State Park 2  
+24285	Glendalough State Park 1  
+24286	Glendalough State Park 2  
+24287	Maplewood State Park 1  
+24288	Maplewood State Park 2  
+24400	St. Cloud Fire Administrative  
+24402	St. Cloud Fire Operations 2  
+24403	Stearns Co Tactical 2  
+24404	St. Cloud Fire Operations 3  
+24405	Stearns Co Tactical 3  
+24406	St. Cloud Fire Operations 4  
+24407	Stearns Co Tactical 4  
+24408	St. Cloud Fire Operations 5  
+24409	Stearns Co Tactical 5  
+24410	St. Cloud Fire Operations 6  
+24411	Stearns Co Tactical 6  
+24412	St. Cloud Fire Operations 7  
+24413	Stearns Co Tactical 7  
+24414	St. Cloud Fire Operations 8  
+24415	Stearns Co Tactical 8  
+24418	St. Cloud Public Works / Refuse - Recycling  
+24420	St. Cloud Public Works - Snowplows  
+24422	St. Cloud Public Works  
+24424	St. Cloud Public Works 4  
+24428	St Cloud Municipal Athletic Conference (MAC)  
+24430	St Cloud Regional Airport Maintenance  
+24431	St Cloud Varda/Automatic Alarms  
+24432	St. Cloud Public Works 8  
+24434	Mayo - St. Cloud Patient Update  
+24436	Central Hospital Hailing  
+24438	Central MN EMS TAC 2   
+24440	Central MN EMS TAC 3   
+24442	Central MN EMS TAC 4   
+24444	St. Cloud Police Dispatch 1  
+24446	St. Cloud Police Ops 1  
+24447	St. Cloud Busses  
+24448	St. Cloud Police Ops 2  
+24450	St. Cloud Police Ops 3  
+24452	St. Cloud Police Ops 4  
+24454	St. Cloud Police Ops 5  
+24456	St. Cloud Police Ops 6  
+24470	St. Cloud Police Tactical  
+24474	St. Cloud Local Govt EMS 1 FD/EMS/PD Coordination  
+24476	St. Cloud Police  
+24494	St. Cloud Local Govt EMS 2 FD/EMS/PD Coordination  
+24496	St. Cloud PD 911  
+24498	St. Cloud Citywide Common Hailing  
+24500	"St. Cloud Local Government Common 1 """"  "
+24502	"St. Cloud Local Government Common 2 """"  "
+24504	"St. Cloud Local Government Common 3 """"  "
+24506	"St. Cloud Convention Center Operations ""CVCTR""  "
+24508	Sartell Fire Admin.  
+24510	Sartell Works  
+24512	Sartell Police Tactical  
+24514	Sartell Police  
+24516	Sartell Police Main  
+24518	Fire Administration  
+24526	St. Joes Police  
+24528	Sauk Rapids Fire Admin  
+24530	Sauk Rapids Public Works  
+24532	Sauk Rapids Local Government 1  
+24534	Sauk Rapids Fire Tactical  
+24536	Sauk Rapids Police Admin  
+24538	St. Stephen Fire Department  
+24542	Waite Park Fire Department  
+24550	Waite Park Police Dispatch  
+24552	St. Cloud Fire Emergency Talkgroup  
+24554	Saint Cloud Police Emergency Talkgroup  
+24600	Sheriff 1 Main (SCSD 1)  
+24602	Stearns ST-3  
+24604	Stearns ST-4  
+24606	Sheriff Supervisors  
+24608	Stearns County SERT  
+24610	Sheriffs Office Tactical  
+24612	County Roam  
+24614	EMS Admin  
+24616	Melrose EMS Admin  
+24618	EMS Admin  
+24620	EMS Admin  
+24622	EMS Admin  
+24626	St. Cloud Metropolitan Athletics Complex  
+24628	Central Minnesota Drug and Gang Task Force  
+24630	St. Cloud VAMC EMS - Security Patch  
+24632	Saint Cloud Announce Group  
+24634	Central MN - Stearns Emergency Management Admin.  
+24636	SCSU Security  
+24640	Sheriff 2 Local PD's (SCSD 2)  
+24642	Stearns ST-5  
+24646	Richmond Fire dept. Adm.  
+24656	Rockville Fire Department  
+24672	Paynesville PD Admin  
+24674	Melrose Fire Department  
+24682	Melrose PD Admin  
+24688	Kimball Fire ops  
+24704	Cold Spring Fire Administration  
+24712	Cold Spring PD  
+24714	Sauk Centre Fire  
+24716	Sauk Centre Govt.  
+24722	Sauk Center PD  
+24724	Brooten Fire  
+24732	Chain of Lakes Fire  
+24734	Belgrade Fire Dept.  
+24744	Albany Fire Deptment  
+24748	Albany Public Works  
+24752	Albany Police Admin.  
+24754	Avon Fire Department  
+24762	Avon Police Admin  
+24778	Clearwater Rescue  
+24780	St. Martin Fire and Rescue  
+24782	Freeport Fire Administration  
+24784	Holdingford Fire  
+24786	Lake Henry Fire Department  
+24788	New Munich Fire and Rescue  
+24792	Elrosa Fire and Rescue  
+24794	Upsala Fire Dept  
+24798	Sheriffs Dept Investigator 1  
+24804	Stearns County Panic Alarm  
+24806	Stearns County Court Security  
+24808	Stearns County Jail  
+24810	Stearns County Campus/County Grounds Deputies  
+24814	Stearns County Highway Dept.  
+24822	County Fire Dispatch Main  
+24824	Waite Park Fire Department Tac  
+24826	Sartell Fire Department Tac  
+24832	Emergency Management  
+24834	Stearns ST-6  
+24836	Stearns ST-7  
+24838	Stearns ST-8  
+24854	St Augusta Fire  
+24856	St Augusta Fire Tac  
+24870	Sauk Rapids Public Works  
+24878	Highway Department  
+24880	St. Cloud Police Ops 5  
+24882	Meeker County Patient Update  
+24884	Central Region Operations 1  
+24886	Mayo - Patient Update  
+24888	St Cloud Hospital Security  
+24890	St. Cloud Hospital CentraCare Hospital - St. Cloud  
+24900	Sheriff 1  
+24902	Sheriff 2  
+24910	Sheriff Reserves  
+24924	Rice Police Admin  
+24926	Law  
+24930	Foley FD Admin  
+24932	Foley  
+24938	Rice Fire Department  
+24940	Rice Fire Department  
+24946	County Fire  
+24948	County Roam  
+25100	Sheriff - Countywide 2  
+25102	Sheriff - Dispatch  
+25104	Sheriff - Special Event  
+25106	Sheriff Tac 3  
+25108	Big Lake Fire  
+25110	Big Lake Police C2C  
+25112	County Court  
+25114	Sheriff Tac  
+25116	County Fire - Tac 1  
+25118	County Fire - Tac 2  
+25120	County Fire - Tac 3  
+25122	Sheriff Tac 4  
+25124	Sheriff C2C 5  
+25126	Sheriff - Jail  
+25128	Elk River FD  
+25136	Sheriff Tac 1  
+25138	Sheriff Tac 2  
+25144	SHBN SO  
+25148	Zimmerman Fire  
+25150	Highway Dept  
+25152	County Fire - Dispatch  
+25154	Jail Booking  
+25160	Fire Usage  
+25162	Elk River Schools Main  
+25174	Elk River Municipal Utilities  
+25178	County Roam   
+25180	Elk River Public Works 1  
+25182	Elk River Public Works 2  
+25184	Elk River Public Works 3 Streets  
+25186	Elk River Public Works 4  
+25188	Elk River Public Works 5  
+25198	Elk River Fire - DNR Fire Interop  
+25202	Highway Maintenance - Construction  
+25204	Building Maintenance  
+25300	County WR Fire  
+25302	County Fire Tac 1  
+25303	County Fire Tac 2  
+25304	County Fire Tac 3  
+25305	County Fire Tac 4  
+25306	County Fire Tac 5  
+25307	County Fire Tac 6  
+25308	County Fire Tac 7  
+25309	County Fire Tac 8  
+25310	Albertville Fire 1  
+25311	Albertville Fire 2  
+25312	Albertville Fire 3  
+25313	Annandale Fire 1  
+25314	Annandale Fire 2  
+25315	Annandale Fire 3  
+25316	Buffalo Fire 1  
+25317	Buffalo Fire 2  
+25318	Buffalo Fire 3  
+25319	Clearwater Fire 1  
+25320	Clearwater Fire 2  
+25321	Clearwater Fire 3  
+25322	Cokato Fire 1  
+25323	Cokato Fire 2  
+25324	Cokato Fire 3  
+25325	Cokato Ambulance  
+25326	Cokato Ambulance All  
+25327	Delano Fire 1  
+25328	Delano Fire 2  
+25329	Delano Fire 2  
+25330	Hanover Fire 1  
+25331	Hanover Fire 2  
+25332	Hanover Fire 3  
+25333	Howard Lake Fire 1  
+25334	Howard Lake Fire 2  
+25335	Howard Lake Fire 3  
+25336	Maple Lake Fire 1  
+25337	Maple Lake Fire 2  
+25338	Maple Lake Fire 3  
+25339	Monticello Fire 1  
+25340	Monticello Fire 2  
+25341	Monticello Fire 3  
+25342	Montrose Fire 1  
+25343	Montrose Fire 2  
+25344	Montrose Fire 3  
+25345	Rockford Fire 1  
+25346	Rockford Fire 2  
+25347	Rockford Fire 3  
+25348	South Haven Fire 1  
+25349	South Haven Fire 2  
+25350	South Haven Fire 3  
+25351	St. Michael Fire 1  
+25352	St. Michael Fire 2  
+25353	St. Michael Fire 3  
+25354	Waverly Fire 1  
+25355	Waverly Fire 2  
+25356	Waverly Fire 3  
+25357	County EMS 1  
+25358	County EMS 2  
+25359	County Law 1  
+25360	County Law 2  
+25361	County Law 3  
+25362	County Law 4  
+25363	County Law 5  
+25364	County Law 6  
+25365	County Roam  
+25366	Annandale Police  
+25367	Howard Lake Police  
+25368	Buffalo Police  
+25369	County ERT  
+25370	County SIU 1  
+25371	County SIU 2  
+25372	County Command  
+25373	County PW 1  
+25374	County PW 2  
+25375	County PW 3  
+25376	County PW 4  
+25377	County PW all  
+25378	Rockford Public Works  
+25379	Cokato Public Works  
+25380	County Emergency  
+25381	Buffalo all  
+25382	Annandale All common  
+25383	Buffalo Hospital Allina Health Hospital - Buffalo  
+25384	Howard Lake All common  
+25385	County Courts  
+25386	Albertville PW  
+25387	Annandale PW  
+25388	Buffalo PW  
+25389	Clearwater PW  
+25390	Delano PW  
+25391	Hanover PW  
+25392	Howard Lake PW  
+25393	Maple Lake PW  
+25394	Monticello PW  
+25395	Montrose PW  
+25396	South Haven PW  
+25397	St. Michael PW  
+25398	Waverly PW  
+25500	Law Enforcement Dispatch 1  
+25501	Law Enforcement Dispatch 2  
+25502	Law Enforcement Car to Car  
+25503	Jail Operations  
+25504	Law Enforcement Tactical 1  
+25505	Law Enforcement Tactical 2  
+25508	Sheriff Tactical 1  
+25509	Sheriff Tactical 2  
+25510	Communications Techs  
+25511	Communications Techs  
+25512	Law Enforcement Roam  
+25513	Law Enforcement Roam  
+25524	Litchfield Police Tactical  
+25550	Fire Dispatch  
+25551	Cosmos Fire Dept & AmbulanceFire-Tac  
+25552	Dassel Fire Dept  
+25553	Eden Valley Fire Dept  
+25554	Grove City Fire Dept   
+25555	Litchfield Fire - Rescue  
+25556	Watkins Fire - Rescue - EMS  
+25557	Meeker Tac 3   
+25558	Meeker Tac 4  
+25559	Meeker Tac 5   
+25560	Meeker Tac 6   
+25561	Meeker Tac 7   
+25562	Meeker 911   
+25600	Highway Main  
+25601	Highway 1  
+25602	Highway 2  
+25603	Highway 3  
+25604	Parks  
+25605	Public Works Admin  
+25606	Highway Admin  
+25613	Eden Valley Public Works  
+25650	Meeker Memorial Hospital - Litchfield  
+25651	Meeker Hospital Meeker Memorial Hospital - Litchfield  
+25676	County Public Transit  
+25703	Announcements  
+25704	Willmar Common  
+25705	Mutual Aid - 9  
+25706	Mutual Aid - 5  
+25707	Mutual Aid - 6  
+25708	Mutual Aid - 7  
+25709	Mutual Aid - 8  
+25710	Public Works  
+25711	Training  
+25712	County Roaming  
+25713	County 911 Trigger  
+25714	Kandiyohi Area Transit  
+25715	County Fire - EMS Dispatch - 151.2200 Patch  
+25716	Countywide Fire Ops 10   
+25717	Countywide Fire Ops 11  
+25718	Atwater FD  
+25719	Blomkest FD  
+25720	Kandiyohi FD  
+25721	Kerkhoven FD  
+25722	Lake Lillian FD  
+25723	New London FD  
+25724	Pennock FD  
+25725	Prinsburg FD  
+25726	Raymond FD  
+25727	Spicer FD  
+25728	Sunburg FD  
+25729	Willmar FD  
+25730	Law Dispatch 1  
+25731	Law Dispatch 2  
+25732	Law dispatch 1 - B1  
+25733	Law dispatch 2 - B2  
+25734	Law Ops - 4  
+25735	Law Ops - 3  
+25736	Sheriff Reserves  
+25737	Law Ops - 8  
+25738	Law Ops - 7  
+25739	Law Ops - ?  
+25740	Rice Hospital Security  
+25742	W.A.S - Willmar Ambulance Service  
+25743	Kandiyohi County Rescue Squad  
+25744	County Public Works 1  
+25745	County Public Works 2  
+25747	Public Utilities - Power plant  
+25749	Willmar Public works  
+25750	Willmar Public Works  
+25752	Sheriff Reserves  
+25753	VHF Page - 154.1450 Patch  
+25754	Rice Hospital Rice Memorial Hospital - Willmar  
+25900	Law Dispatch  
+25903	Swift  
+25950	Fire - Ems Paging  
+25957	Kerkhoven Fire Dept  
+25960	SWIFT 3  
+25961	SWIFT 4  
+25962	SWIFT 5  
+25963	SWIFT 6  
+25964	SWIFT 7  
+25966	County Roam  
+26100	County Law Dispatch  
+26101	Pope 2  
+26102	Pope 3  
+26103	Pope 4  
+26104	Pope 5  
+26105	Pope 6  
+26106	County Fire Dispatch - 154.3100 VHF  
+26107	Pope Hospital - EMS Glacial Ridge Hospital - Glenwood  
+26114	County Roaming  
+26115	Law  
+26129	All Call  
+26332	Fire Paging - 155.7600 VHF  
+26333	County Roam  
+26338	Fire Dispatch   
+26343	Law Dispatch  
+26344	Law  
+26349	EMS Dispatch - 154.1150 VHF  
+26353	Highway Dept  
+26354	Engineering Dept.  
+26500	Law Dispatch  
+26501	Big Stone Fire Main   
+26502	Big Stone BS 3 Interop  
+26503	Big Stone BS 4 Interop  
+26508	County Roam  
+26509	Big Stone Paging  
+26511	Law  
+26700	Traverse 2  
+26701	Traverse 3  
+26702	Traverse 4  
+26703	Traverse 5  
+26707	County Roaming  
+26708	Law Dispatch  
+26709	TRAV LAW E1  
+26710	TRAV LAW E2  
+26711	Fire Dispatch - 155.0850 - 154.2800 VHF  
+26712	Wheaton Hospital ER Sanford Hospital - Wheaton  
+26714	Road Dept. 1  
+26715	Road Dept. 2  
+26718	TRAVERSE FIRE  
+26719	TRAVERSE FIRE  
+26720	TRAVERSE FIRE  
+26723	TRAVERSE FIRE  
+26724	TRAVERSE FIRE  
+26900	Law Dispatch  
+26901	Todd TAC 2  
+26902	Todd TAC 3  
+26903	Todd TAC 4  
+26904	Todd TAC 5  
+26905	Todd TAC 6  
+26906	Todd TAC 7E  
+26907	Todd TAC 8E  
+26908	Fire - EMS Dispatch  
+26910	County Roam  
+26911	Law Tac 1  
+26912	Law Tac 2  
+26913	Bertha Fire  
+26914	Browerville Fire  
+26915	Eagle Bend Fire  
+26916	Long Prairie Fire  
+26917	Staples Fire  
+26918	911 Emergency Distress Button  
+26919	Clarissa Fire  
+26920	Grey Eagle Fire  
+26921	Hewitt Fire  
+26922	Sheriff C2C  
+26927	Emergency Management  
+26928	Announce - 26900 and 26908  
+26931	Centracare Hospital - Long Prairie Centra Care Hospital - Long Praire  
+26932	Lakewood Hosp. - Staples Lakewood Health Hospital - Staples  
+26934	Central Lakes College Staples Administration  
+27102	Albany Area Hospital, Albany CHI Albany Hospital - Albany  
+27106	Melrose Area Hospital, Melrose Centra Care Hospital - Melrose  
+27110	Centracare Hospital, Sauk Center Centra Care Hospital - Sauk Centre  
+27114	Paynesville Hospital Centra Care Hospital - Paynesville  
+27116	Mayo - St. Cloud Dispatch  
+27118	Statewide Ground Roaming  
+27119	Statewide Air Roaming  
+27120	New River Ambulance Service  
+27200	Central Region Operations 2  
+27202	Mayo - Meeker County Dispatch  
+27203	Central Region Operations 3  
+27300	Grant Tac 2  
+27302	Grant Tac 3  
+27304	Grant Tac 4  
+27305	County Roam  
+27306	Grant Tac 5  
+27308	Grant Tac 6  
+27310	Grant 911  
+27316	Grant Co Fire Dispatch - 154.2500 VHF  
+27326	Sheriff Dispatch  
+27328	Grant Tac 7  
+27330	Grant Tac 8  
+27336	Grant - Elbow Lk Hospital Prairie Ridge Hospital - Elbo Lake  
+27346	Grant County Schools  
+27348	Ashby High School  
+27350	Herman-Norcross School  
+27352	West Central Area School District 2342 - Barrett  
+27356	Grant Countywide Pub Works  
+27358	Ashby Public Works  
+27360	Barrett Public Works  
+27362	Elbow Lk Public Works  
+27364	Herman Public Works  
+27366	Hoffman Public Works  
+27368	Grant Co Highway Dept.  
+27370	Wendell Public Works  
+27500	County 911  
+27501	Douglas DG 2  
+27502	Douglas DG 3  
+27503	Douglas DG 4  
+27504	Douglas DG 5  
+27505	Douglas DG 2  
+27509	Douglas Fire Dispatch - 154.0250 VHF  
+27510	Law Dispatch   
+27514	County Jail 27514  
+27516	County Jail 27516  
+27518	County Roaming  
+27521	Alexandria Fire Dept.  
+27522	Brandon Fire  
+27523	Carlos Fire  
+27524	Evansville Fire  
+27525	Forada Fire  
+27526	Garfield Fire  
+27527	Holmes City Fire  
+27528	Kensington Fire  
+27529	Leaf Valley Fire  
+27530	Miltona Fire  
+27531	Millerville Fire  
+27532	Osakis Fire  
+27535	Highway Dept.  
+27539	Alexandria Tech College Law Enforcement training  
+27540	West Central MN Drug & Offender Task Force 7  
+27541	West Central MN Drug & Offender Task Force 8  
+27700	Law Dispatch - Patch 155.1150  
+27701	Fire - EMS Dispatch  
+27702	Wilkin 2  
+27703	Wilkin 3  
+27704	Wilkin 4  
+27705	Wilkin 5  
+27706	Wilkin 6  
+27707	County 911  
+27708	Wilkin Announce  
+27709	County Roam  
+27710	Highway Dept.  
+27711	Law C2C  
+27712	Brek. Fire Dispatch  
+27713	Law 1  
+27714	Law 2  
+27715	Wahpeton PD Patch  
+27716	St. Francis Hospital CHI St. Francis Hospital - Breckenridge  
+27900	County Law Dispatch OT 1  
+27901	County Law Dispatch OT 1  
+27902	Otter Tail County 2  
+27903	Otter Tail County 3  
+27904	Otter Tail County 4  
+27905	Otter Tail County 5  
+27906	Otter Tail County 6  
+27907	Otter Tail County 7  
+27908	Otter Tail County 8  
+27909	Emergency Trigger  
+27910	County FIRE - EMS Dispatch  
+27911	County 911 Paging - 158.8050 VHF  
+27912	County Roam  
+27913	Sheriff Investigations  
+27914	Sheriff Investigations  
+27915	Sheriff Investigations  
+27916	County Detention  
+27917	County JAIL  
+27918	County Law TAC C2C  
+27920	County Highway Dept. Adm.  
+27921	County Highway Dept. Main  
+27922	Otter Tail Emergency Management ADM  
+27923	Otter Tail Emergency Management ALL  
+27925	Fergus Falls Public Works  
+27926	Fergus Falls Police Dispatch  
+27927	Fergus Falls Police Dispatch  
+27928	Fergus Falls Public Works  
+27929	Fergus Falls Citywide  
+27930	Fergus Falls All 911  
+27931	Fergus Falls Police TAC C2C  
+27932	Battle Lake PD TAC  
+27933	Henning PD TAC  
+27934	New York Mills PD TAC  
+27935	Pelican Rapids PD TAC  
+27936	Perham PD TAC  
+27937	Parkers Prairie PD TAC  
+27938	Sheriff Investigations   
+27939	County Engineering  
+27940	Battle Lake Fire Dept.  
+27941	Dalton Fire Dept.  
+27942	Deer Creek Fire Dept.  
+27943	Dent Fire Dept.  
+27944	Elizabeth Fire Dept.  
+27945	Fergus Falls Fire Dept.  
+27946	Henning & Vining Fire Tac   
+27947	New York Mills & Bluffton Fire Tac  
+27948	Otter Tail Fire Dept.  
+27949	Parkers Prairie Fire Dept. - Police Dept  
+27950	Pelican Rapids Fire Dept.  
+27951	Perham Fire Dept.  
+27952	Rothsay Fire Dept.  
+27953	Underwood Fire Dept.  
+27954	Vergas Fire Dept.  
+27960	Lake Region Hospital - EMS - F Falls Lake Region's Hospital - Fergus Falls  
+27961	Perham Hospital - EMS Sanford Hospital - Perham  
+27962	Perham EMS Tac  
+27963	EMS Tac   
+27964	Ringdahl EMS  
+28100	County Roam  
+28101	County Law Dispatch  
+28102	County TAC 1  
+28103	County Emergency Mgmt. 1  
+28104	County TAC 2  
+28105	County TAC 3  
+28106	County TAC 4  
+28107	County TAC 5  
+28108	County TAC 6  
+28109	County Fire Dispatch  
+28110	Tri County EMS Dispatch   
+28111	Wadena 1  
+28112	Wadena 2  
+28113	Tri County Hospital Ops  
+28114	County Emergency Mgmt. 2  
+28115	Wadena County Joint Task Force 1  
+28116	Wadena County Joint Task Force 2  
+28117	County 911  
+28118	Wadena Fire TAC  
+28119	Verndale Fire TAC  
+28120	Menahga Fire TAC  
+28121	Sebeka Fire TAC  
+28122	Public Works 1  
+28123	Public Works 2  
+28124	Soild Waste Landfill  
+28125	Wadena County Friendly Rider Bus Service  
+28126	Emergency  
+28127	Tri County Hospital EMS to ER Tri-County Health Care Hospital - Wadena  
+28500	"Marshall ""2300"" Dispatch  "
+28501	"Marshall ""2300"" Roaming  "
+28502	"Marshall ""2300"" Tac 2  "
+28504	"Marshall ""2300"" Tac 1  "
+28506	"Marshall ""2300"" Tac 3 - All Call  "
+28522	DOT Willmar 28522  
+28524	DOT Shop  
+28528	DOT Willmar 28528  
+28530	DOT Willmar 28530  
+28532	Tactical 3  
+28534	DOT Willmar 28534  
+28540	DOT Willmar 28540  
+28546	DOT Willmar28546  
+28548	DOT Willmar All Call  
+28550	DOT PIPESTONE  
+28552	DOT Emergency to MSP  
+28556	Dist 8 Supervisors  
+28560	DOT Hutchinson  
+28562	DOT Marshall  
+28564	DOT Willmar 28564  
+28574	SW CALL  
+28575	NWS Sioux Falls  
+28576	Southwest Tactical 2  
+28578	Southwest Tactical 3  
+28580	Southwest Tactical 4  
+28582	Southwest Tactical 5  
+28584	Southwest Tactical 6  
+28586	Southwest Tactical 7  
+28588	Southwest Tactical 8  
+28590	Southwest Tactical 9  
+28592	Southwest Tactical 10  
+28594	Southwest Tactical 11  
+28596	Southwest Tactical 12  
+28598	Southwest Tactical 13  
+28600	Southwest R5 MTAC  
+28601	Parks District 10 Main  
+28602	Parks District 10 Tactical  
+28603	Sibley State Park Ch 1  
+28604	Sibley State Park Ch 2  
+28605	Lac qui Parle State Park 1  
+28606	Lac qui Parle State Park 2  
+28607	Big Stone Lake State Park 1  
+28608	Big Stone Lake State Park 2  
+28609	Monson Lake State Park 1  
+28610	Monson Lake State Park 2  
+28611	Camden State Park 1  
+28612	Camden State Park 2  
+28613	Upper Sioux Agency State Park 1  
+28614	Upper Sioux Agency State Park 2  
+28615	Greenleaf Lake Rec Area  
+28616	Lake Shetek State Park 1  
+28617	Lake Shetek State Park 2  
+28618	Split Rock Creek State Park 1  
+28619	Split Rock Creek State Park 2  
+28620	Kilen Woods State Park 1  
+28621	Kilen Woods State Park 2  
+28622	Blue Mounds State Park 1  
+28623	Blue Mounds State Park 2  
+28900	County 911  
+28901	County Law Main  
+28902	County Law 2  
+28903	County All  
+28904	Reserved for future use.  
+28905	County Public Works  
+28906	County Highway Dept. 1  
+28907	County Highway Dept. 2  
+28908	Madison Public Works  
+28909	Dawson Public Works  
+28910	County Fire Dispatch  
+28911	County Fire OPS 1  
+28912	County Fire OPS 2  
+28913	County Fire OPS 3  
+28914	County Fire OPS 4  
+28915	County EMS Dispatch  
+28916	Dawson EMS  
+28917	Madison EMS  
+28918	County Fire  
+28919	County Tac Main  
+28920	County TAC 1  
+28921	County TAC 2  
+28922	County TAC 3  
+28923	County TAC 4  
+28924	County Paging  
+28925	County Roam  
+28926	Dawson School Busses  
+28927	Lac qui Parle Valley School Busses  
+29120	Law Dispatch  
+29121	Law Enc 1  
+29122	Law Enc 2  
+29123	Law Car to Car  
+29130	Fire Dispatch  
+29131	Fire Tac 9  
+29132	Fire T2T   
+29140	Chippewa 2  
+29141	Chippewa 3  
+29142	Chippewa 4  
+29143	Chippewa 5  
+29144	Chippewa 6  
+29145	Chippewa 7  
+29150	Paging - 154.2650 VHF  
+29151	Road Dept.  
+29152	Road Dept. 8  
+29153	Road Dept. 9  
+29154	Road Dept. C2C  
+29155	Emergency Management  
+29156	County Announce  
+29157	County Emergency  
+29158	County 911  
+29159	County Roam  
+29170	Montevideo Hospital  
+29171	EMS Dispatch  
+29172	County Health  
+29180	Montvd Works  
+29181	Milan Works  
+29182	Maynard Works  
+29183	Clara City Works  
+29184	Watson Works  
+29185	McCray Works  
+29186	Montvd Schools  
+29187	Transport 10  
+29188	Transport 11  
+29189	Transport 12  
+29190	City 8  
+29191	City 9  
+29198	Chip 99  
+29199	Chip 100  
+29300	Yellow Medicine 911  
+29350	Hanley Falls PW  
+29351	Wood Lake PW  
+29352	Echo PW  
+29354	Granite Falls Hospital  
+29355	Yellow Medicine  
+29356	Countywide Common  
+29374	Upper Sioux PW  
+29375	Canby public works  
+29376	Clarkfield PW  
+29377	Granite Falls public works  
+29378	YM Highway 1  
+29379	Canby Hospital ER  
+29380	Granite Falls Hospital ER  
+29384	Emergency Trigger  
+29386	Yellow Medicine jail ops  
+29390	Law  
+29391	Yellow Medicine  
+29392	Law Car to Car  
+29393	OPS 5  
+29394	OPS 4  
+29395	OPS 3  
+29396	OPS 2  
+29397	Fire EMS Dispatch  
+29398	Law Dispatch  
+29399	County Roaming  
+29500	Law Dispatch  
+29501	Renville Law Ops 1  
+29502	Renville Law Ops 2  
+29504	Jail  
+29507	Announce  
+29508	Emergency Trigger  
+29509	Fire - EMS Paging - 153.8000 Vhf Link.  
+29511	Fire - EMS Dispatch  
+29515	Renville County Hospital  
+29520	Renville 2  
+29521	Renville 3  
+29522	Renville 4  
+29523	Renville 5  
+29524	Renville 6  
+29525	Renville 7  
+29527	County Roam  
+29550	Highway Dept. Main  
+29551	Highway Dept. Operations 1  
+29552	Highway Dept. Operations 2  
+29595	Central Community Transit  
+29701	County Roam  
+29705	Law Dispatch  
+29902	Lyon Law Dispatch  
+29908	Lynd Fire Dept.  
+29909	Fire - EMS Dispatch  
+29910	Lyon County Interop LY 4  
+29911	Lyon County Interop LY 5  
+29912	Lyon County Interop LY 6  
+29913	Lyon County Interop LY 7  
+29914	Lyon County Interop LY 8  
+29946	Highway Department  
+30101	Law Dispatch  
+30104	Fire - Ems Dispatch  
+30105	Redwood 2  
+30106	Redwood 3  
+30107	Redwood 4  
+30108	Redwood 5  
+30109	Redwood 6  
+30110	Redwood 7  
+30116	Redwood Co Highway  
+30118	Roam  
+30120	Redwood Falls Public Works  
+30122	Redwood Falls Hospital  
+30125	Paging (patch with 154.37 MHz)  
+30126	North EMS  
+30137	Walnut Grove Fire Admin  
+30138	Lower Sioux Common  
+30139	Lower Sioux Jackpot  
+30140	Lower Sioux Police Car to Car  
+30141	Lower Sioux Police Operations  
+30142	Lower Sioux Emergency Management  
+30143	Lower Sioux Public Works 1  
+30144	Lower Sioux Public Works 2  
+30145	Lower Sioux Environmental Dept  
+30300	Pipestone Law Dispatch  
+30312	County Roam  
+30313	Hospital - EMS  
+30315	Highway Department ?  
+30320	County Transit  
+30500	County Law Main  
+30502	County Fire Main  
+30503	County Wide Common  
+30504	Murray County EMS Main  
+30505	Murray County Hospital Main  
+30507	Avoca Fire Department   
+30508	Chandler Fire Department   
+30509	Currie Fire Department   
+30510	Dovary Fire Department   
+30511	Fulda Fire Department   
+30512	Iona Fire Department   
+30513	Lake Wilson Fire Department   
+30514	Slayton Fire Department   
+30523	Fulda City Public Works  
+30524	City Public Works Sharred  
+30525	County Public Works Main  
+30526	Murray County Public Works Ops  
+30529	Slayton City Public Works  
+30530	County 911  
+30531	County Roam  
+30700	County Roam  
+30703	Windom Area Hospital  
+30704	County Fire - EMS Dispatch  
+30705	County Law Dispatch  
+30706	County Ops 2  
+30707	County Ops 3  
+30715	Mountain Lake Fire/Ambulance  
+30716	Windom Fire - Ambulance  
+30717	Jeffers Fire/Ambulance  
+30719	Westbrook Fire/Ambulance  
+30720	Westbrook Hospital  
+30728	Windom Street/Parks Department  
+30730	Westbrook Public Works  
+30731	County Highway Department  
+30734	Windom Electric Department  
+30900	Sheriff Dispatch  
+30901	County Rural Water Utilities  
+30902	County Fire Dispatch  
+30903	County Roaming 1  
+30904	County Roaming 2  
+30905	Lyon County Iowa 911 (also used by Nobles County)  
+30906	Sioux Falls South Dakota Metro 911 (also used by Pipestone County)  
+30907	Hospital - EMS  
+30909	County Highway Dept ?  
+30910	County Highway Dept  
+30911	Rock Tac 3  
+30912	Rock Tac 4  
+30913	Rock Tac 5  
+30914	Rock Tac 6  
+30915	Law Tac  
+30916	County Rural Water Utilities  
+30919	EMS Dispatch 1  
+30920	EMS Dispatch 2  
+31101	County Law Dispatch  
+31102	County Law Car to Car  
+31107	County Jail  
+31108	Highway Department 1  
+31109	Highway Department 2  
+31112	County Fire Dispatch  
+31121	Round Lake Fire  
+31125	Worthington Regional Hospital  
+31127	Osceola County Iowa Patch  
+31128	NW Iowa - SW MN Tac ?  
+31300	County 911  
+31302	Law Dispatch  
+31304	Fire - EMS Dispatch  
+31311	Jackson Co. Patch with Dickinson Co. Iowa VHF  
+31313	Road Department  
+31321	Community Action Transit - Lincoln, Lyon, Redwood, Cottonwood  
+31500	Southwest Hospitals  
+32873	Brainerd Base (Life Link 8)  
+33200	County Roam  
+33202	County Emergency buttons  
+33203	Hutchinson Law Dispatch  
+33205	Glencoe Law Admin  
+33206	County Law  
+33207	County Schools  
+33208	County Fire Dispatch  
+33209	County Law Dispatch  
+33210	County Public Works  
+33211	McLeod ML 3  
+33212	McLeod ML 4  
+33213	McLeod ML 5  
+33214	McLeod ML 6  
+33215	McLeod ML 7  
+33216	Stewart Fire Admin  
+33217	Silver Lake Fire/EMS Admin  
+33218	Winsted Fire  
+33219	Brownton Fire  
+33220	Glencoe Hospital ER  
+33221	County EMS - SEE TG 2109  
+33222	Hutchinson Hospital ER  
+33223	Glencoe Fire Admin  
+33224	Hutch Fire Admin  
+33225	Lester Prairie FD Adm  
+33226	Plato FD Adm  
+33227	Glencoe Hospital/EMS Admin  
+33228	Glencoe Light & Power  
+33229	Glencoe Public Works 1  
+33230	Glencoe Public Works 2  
+33231	McLeod ML 8  
+33232	County Weather  
+33233	County Law Admin  
+33234	Jail Operations  
+33400	County Roam  
+33402	SB 911  
+33404	SB Law Main  
+33406	SB Dispatch  
+33408	County Fire - EMS Dispatch  
+33410	SB Public Works  
+33411	SB PW Supervisors  
+33412	EMH-SMC Sibley Medical Center - Arlington  
+33414	Sibley 7  
+33415	Sibley 8  
+33416	Sibley 5  
+33417	Sibley 6  
+33418	Sibley 9  
+33419	Sibley 10  
+33420	SB 11 - Weather  
+33421	SBLY LAW 1E  
+33422	SBLY LAW 2E  
+33423	Arlington FD T2T  
+33424	Arlington City Admin  
+33427	Grn Isle City Admin  
+33428	Grn Isle T2T  
+33429	Gaylord FD T2T  
+33432	New Auburn FD T2T  
+33435	Winthrop FD T2T  
+33436	Winthrop City Admin  
+33602	County Roam  
+33603	Sheriff Office  
+33605	County Fire Dispatch  
+33612	New Ulm Hospital  
+33614	Sleepy Eye Medical Center ER  
+33621	Highway Department  
+33802	County Roam  
+33803	Gustavus Adolphus College Security  
+33804	County Sheriff Admin  
+33806	County All Law Car to Car  
+33807	Law 1 - Sheriff's Office and North Mankato Police  
+33809	Law 2 - Saint Peter Police  
+33810	Fire/EMS Dispatch (all fire departments and Lafayette Volunteer Ambulance)  
+33814	County Public Works  
+33818	St Peter Police Admin  
+33820	County Interop 3  
+33821	County Emergency Hailing  
+33822	County Interop 4  
+33826	St Peter Hospital - River's Edge  
+33827	County Interop 5  
+33828	County Interop 6  
+33829	County Interop 7  
+33830	County Interop 8  
+34004	Law Dispatch  
+34005	Law Car to Car  
+34020	Fire Dispatch  
+34040	Public Works  
+34080	County Roam  
+34081	Law All Call  
+34082	Fire All Call  
+34083	Works All Call  
+34202	County Roam  
+34300	Mankato State Univ. Security  
+34301	Mankato State Univ. Operations  
+34402	County Roaming  
+34404	Blue Earth Sheriff - VHF Link  
+34406	Regional Hospital Net  
+34408	Blue Earth Co Fire/EMS  
+34412	Mankato PD - VHF Link  
+34413	BE 4  
+34414	BE 5  
+34415	BE 6  
+34416	BE 7  
+34417	BE 8  
+34418	BE 9  
+34419	BE 911  
+34420	County Jail Ops  
+34424	Mankato Fire - VHF Link  
+34442	MCHS Mankato ER - Patient reports (Mayo Health)  
+34610	Waseca  
+34611	Law 1 Dispatch  
+34612	Waseca 2  
+34613	Waseca 3  
+34614	Waseca 4  
+34615	Waseca 5  
+34616	Waseca 6  
+34617	Waseca 7E  
+34618	Fire1 Fire/EMS Dispatch  
+34619	Emergency Management 1  
+34620	County Roaming  
+34622	Highway 1  
+34623	WAS Utilities  
+34626	Waseca Hospital  
+34627	Emergency Management SPOT  
+34800	County Roaming  
+34803	Martin Co MT3  
+34812	Law Enforcement Dispatch  
+34814	MCHS Fairmont - Mayo Clinic Health System - Fairmont hospital  
+35002	County Roam  
+35003	County Law 1 Dispatch  
+35004	County Law 2  
+35005	Faribault 7  
+35007	Faribault 8  
+35008	County Fire Dispatch  
+35009	Faribault Fire Dispatch  
+35010	Faribault Public Works  
+35011	County EMS Dispatch  
+35012	United Hospital Blue Earth  
+35013	Faribault 9  
+35014	Faribault 10  
+35015	KIESTER OPS  
+35016	Faribault Public Works 2  
+35017	Blue Earth OPS  
+35018	BRICELYN OPS  
+35019	DELAVAN OPS  
+35020	EASTON OPS  
+35021	ELMORE OPS  
+35023	FROST OPS  
+35024	Minnesota Lake OPS  
+35026	Wells Ops  
+35027	Winnebago OPS  
+35038	Faribault  
+35039	Faribault  
+36500	"Duluth ""2700"" Dispatch  "
+36501	"Duluth ""2700"" Roam  "
+36502	"Duluth ""2700"" District Tactical 2  "
+36504	"Duluth ""2700"" District Tactical 1  "
+36505	"Duluth ""2700"" Tac  "
+36506	"Duluth ""2700"" District Tactical 3 - Emergency  "
+36508	"Duluth ""2700"" - All Call  "
+36528	DOT Duluth - All Call  
+36530	DOT Duluth Emergency to State Patrol  
+36532	DOT Duluth G. Rapids - Floodwood  
+36534	DOT Duluth Pine City - Sandstone - McGregor  
+36536	DOT Duluth Carlton - Nopeming - Pike Lake  
+36540	DOT Duluth International Falls  
+36542	DOT Duluth Ely - Hibbing  
+36544	DOT Duluth 36544  
+36564	"Virginia ""3100"" District Dispatch  "
+36565	"Virginia ""3100"" Roaming  "
+36566	"Virginia ""3100"" District Tactical 2  "
+36567	"Virginia ""3100"" Accident Investigation  "
+36568	"Virginia ""3100"" District Tactical 1  "
+36570	"Virginia ""3100"" District Tactical 3 - All Call  "
+36572	DOT Duluth 36572  
+36574	DOT Duluth Two Harbors - Illgen City  
+36576	DOT Duluth 36576  
+36582	DOT Duluth 36582  
+36584	DOT Duluth TAC  
+36586	DOT Duluth 36586  
+36588	DOT Duluth 36588  
+36591	NWS Duluth  
+36594	"Brainerd ""2800"" Dispatch  "
+36595	"Brainerd ""2800"" Roaming  "
+36596	"Brainerd ""2800"" TAC 2  "
+36597	"Brainerd ""2800"" Accident Investigation  "
+36598	"Brainerd ""2800"" TAC 1  "
+36600	"Brainerd ""2800"" TAC 3 - All Call  "
+36610	NE Calling  
+36612	NE-2  
+36614	NE-3  
+36616	NE-4  
+36618	NE-5  
+36620	NE-6  
+36622	NE-7  
+36624	NE-8  
+36626	NE-9  
+36628	NE-10  
+36630	NE-11  
+36632	NE-12  
+36634	Main Operations  
+36636	Local Maintenance  
+36638	Operational Sec. Secure Det. Unit  
+36640	Operational Security Op1  
+36642	Operational Security Op2  
+36644	Operational Security SORT  
+36646	Alert Tone Out All Call  
+36648	Emergency Alert All Call  
+36650	Main Operations  
+36652	Work Crews/Maintenance  
+36654	Operational Security Op1  
+36656	Operational Security Op2  
+36658	Operational Security Op3  
+36660	Operational Security Tactical  
+36662	Alert Tone Out All Call  
+36664	Emergency Alert All Call  
+36666	MCF Togo - Operations 1  
+36682	Sex Offender Program Moose Lake 1  
+36684	Sex Offender Program Moose Lake 2  
+36686	Sex Offender Program Moose Lake 3  
+36688	Sex Offender Program Moose Lake 4  
+36690	Sex Offender Program Moose Lake 5  
+36692	Sex Offender Program Moose Lake 6  
+36694	Sex Offender Program Moose Lake 7  
+36696	Sex Offender Program Moose Lake 8  
+36706	McCarthy Beach State Park 1  
+36710	Parks District 4 Main  
+36711	Parks District 4 Tactical  
+36712	Jay Cooke State Park 1  
+36713	Jay Cooke State Park 2  
+36714	Gooseberry Falls State Park 1   
+36715	Gooseberry Falls State Park 2   
+36716	Split Rock Lighthouse State Park 1   
+36717	Split Rock Lighthouse State Park 2   
+36718	Tettegouche State Park 1   
+36719	Tettegouche State Park 2   
+36720	Tettegouche State Park 3   
+36721	Cascade River & C.R. Magney State Parks 1  
+36722	Cascade River & C.R. Magney State Parks 2  
+36723	Grand Portage State Park 1  
+36724	George Crosby Manitou State Park 1  
+36738	Parks District 3 Main  
+36739	Parks District 3 Tactical  
+36740	Bearhead Lake State Park 1  
+36741	Bear Head Lake State Park 2  
+36742	Soudan Underground Mine & Lake Vermillion State Parks 1  
+36743	Soudan Underground Mine & Lake Vermillion State Parks 2  
+36744	Scenic, Hill Annex Mine & Schoolcraft State Parks 1  
+36745	Scenic, Hill Annex Mine & Schoolcraft State Parks 2  
+36746	Scenic, Hill Annex Mine & Schoolcraft State Parks 3  
+36747	McCarthy Beach State Park 1 ??  
+36748	McCarthy Beach State Park 2 ??  
+36749	Iron Range Off Road Vehicle State Recreation Area 1  
+36750	Iron Range Off Road Vehicle State Recreation Area 2  
+36864	Test Talkgroup A  
+36896	Test Talkgroup B  
+36901	Law Dispatch 1  
+36915	EMS Dispatch - 154.4450 VHF  
+36916	AITKIN FIRE 2  
+36917	AITKIN FIRE 3  
+36935	County Roaming  
+36943	Roads/Public Works  
+36960	Test Talkgroup D  
+36992	Test Talkgroup E  
+37024	Test Talkgroup F  
+37056	Test Multi-Talkgroup ABC  
+37100	County Roam  
+37101	Law Dispatch  
+37102	Law 2  
+37104	Law ?  
+37112	Jail Operations  
+37120	Public Safety Common 1  
+37122	Public Safety Common 2  
+37124	Public Safety Common 3  
+37126	Public Safety Common 4  
+37128	Public Safety Common 5  
+37130	Public Safety Common 6  
+37136	Fire - EMS Dispatch  
+37142	Cloquet Area Fire District Administration  
+37143	Carlton  
+37148	Cloquet Hosp  
+37604	Duluth Law Tac  
+37606	Duluth Parking Enforcement  
+37616	Duluth Fire Dispatch  
+37618	Duluth Fire Training  
+37786	Hibbing Public Utilities  
+37787	Hibbing Public Works  
+37788	Hibbing Public Works  
+37800	Hailing - Emergency Buttons  
+37801	Law Dispatch 1 - South  
+37802	Law Dispatch 2 - North  
+37803	Law Dispatch 3 - Duluth PD   
+37804	Law Dispatch 4 - Alternate - Special Projects  
+37805	Countywide 5  
+37806	Countywide 6  
+37807	County Common 1  
+37808	County Common 2  
+37810	South St. Louis Rescue  
+37811	North St. Louis Rescue  
+37812	Countywide Info Channel - For All Agencies  
+37813	Countywide Alternate Info Channel - Talkaround - Special Srojects  
+37837	University of Minnesota Duluth Police Tactical  
+37842	County Event 1  
+37843	County Event 2  
+37844	County Event 3  
+37845	County Event 4  
+37848	Duluth Police Tac  
+37850	South Fire - EMS Dispatch - FE 1  
+37851	North Fire - EMS Dispatch - FE 2  
+37852	County Fire EMS 3  
+37853	County Fire EMS 4  
+37854	County Fire EMS 5  
+37855	County Fire EMS 6  
+37856	County Fire EMS 7  
+37857	County Fire EMS 8  
+37858	County Fire EMS 9  
+37859	County Fire EMS 10  
+37860	Fire - EMS Pool 23  
+37861	Fire - EMS Pool 24  
+37862	Fire - EMS Pool 25  
+37863	Fire - EMS Pool 26  
+37864	Fire - EMS Pool 27  
+37865	Fire - EMS Pool 28  
+37866	Fire - EMS Pool 29  
+37867	Fire - EMS Pool 30  
+37868	Cook Hospital  
+37869	Ely Bloomenson Community Hospital  
+37870	HOSPITAL  
+37871	St. Lukes Hospital  
+37872	St. Mary's Duluth  
+37873	UMCM - Hibbing Hospital   
+37874	VRMC - Virginia Hospital  
+37875	Northern Pines Medical Center  
+37879	Alborn VFD Admin ?  
+37880	Arrowhead VFD Admin ?  
+37881	Aurora FD Admin  
+37882	Babbitt VFD Admin ?  
+37883	Fire Tac  
+37884	Biwabik City Fire - EMS Admin  
+37885	Bearville Township Fire  
+37886	Brimson FD Admin  
+37887	Fire Tac  
+37888	Buhl Fire Admin  
+37889	Biwabic Twp FD Admin   
+37890	Fire Tac  
+37891	Fire Tac  
+37892	Central Lakes Fire  
+37893	Cherry VFD Admin ?  
+37894	Chisholm Fire Admn  
+37895	Clifton VFD Admin ?  
+37896	Clinton Fire  
+37897	Colvin FD Admin  
+37898	Cook VFD Admin ?  
+37899	Cherry FD Admin ? - Cotton VFD Admin ?  
+37900	Crane Lake Fire Admin ?? - 37900-02 ??  
+37901	Fire Tac  
+37902	Fire Tac  
+37903	Evergreen Fire Admin   
+37904	Fire Tac  
+37905	Embarrass FD Admin  
+37906	Fire Tac  
+37907	Fire Tac  
+37908	Eveleth Fire - EMS   
+37909	Fayal Fire Admin  
+37910	Fredenburg VFD Admin ?  
+37911	French township fire admin  
+37912	Fire Tac  
+37913	Gilbert Fire Admin  
+37914	Gnesen Township Fire Admin  
+37915	Grand Lake township Fire Admin  
+37917	Greenwood Fire   
+37918	Hermantown FD Admin  
+37919	Hibbing Fire Adm   
+37920	Fire Tac  
+37921	Hoyt Lakes Fire - EMS  
+37922	Industrial VFD Admin ?  
+37923	International Falls VFD ?  
+37924	Kelsey VFD Admin ?  
+37925	Kinney/Great Scott VFD Admin  
+37926	Lakeland FD Admin  
+37927	Lakewood VFD Admin ?  
+37928	Makinen FD Admin  
+37929	Fire Tac  
+37930	McDavitt fire Admin  
+37931	Makinen VFD Admin ?  
+37932	McKinley VFD Admin ?  
+37933	Meadowlands VFD Admin ?  
+37934	Morse Fall Lake VFD Admin   
+37935	Mt. Iron Fire Admin   
+37936	North Star VFD Admin ?  
+37937	Normanna VFD Admin  
+37938	Northland VFD Admin ?  
+37939	Orr Fire Admin.  
+37940	Palo FD Admin  
+37941	Pike-Sandy Fire Admin.  
+37942	Pike Sandy Britt VFD - Pequaywan Lake VFD ??  
+37943	Proctor VFD Admin ?  
+37944	Rice Lake Fire Admin  
+37945	Silica Fire Admin  
+37946	Solway VFD Admin  
+37947	Toivola VFD Admin ?  
+37948	Tower VFD Admin ?  
+37949	Vermillion Lake VFD Admin ?  
+37950	Virginia Fire Admin  
+37951	West Brevator VFD Admin ?  
+37952	Fire Tac  
+37953	Fire Tac  
+37954	Fire Tac  
+37955	Fire Tac  
+37956	Fire Tac  
+37957	Ely Fire Admin  
+37958	Gilbert 1st Responders  
+37967	Chisholm-Hibbing Airport  
+37974	Hibbing Community College Law Enforcement Training  
+37980	Chisholm Public Works  
+37986	Virginia Public Utilities  
+37988	Virginia Public Works  
+37991	Gilbert Public Works  
+38001	County Sheriff Dispatch  
+38012	County School Buses   
+38013	County Fire/EMS - Patch  
+38014	Lake County EMS - Two Harbors Ambulance TAC ??  
+38021	Lakeview Hospital Two Harbors  
+38028	Road Department  
+38029	Road Department - Finland  
+38034	Silver Creek Township DPW  
+38035	Lake County Forestry  
+38041	Sheriff - Pd Admin  
+38042	Lake Connections (Lake Conn) County Fiber ISP  
+38200	County Law Main  
+38202	County Paging  
+38204	Cook County 911  
+38205	Law Disp 1  
+38206	Law Disp 2  
+38207	Law Disp 3  
+38208	Law Disp 4  
+38209	Law Disp 5  
+38210	Cook County Law TAC 1E  
+38222	Cook County Highway Dept  
+38223	Cook County  
+38227	Cook County School Dist Buses  
+38238	Hovland Fire Tac  
+38239	Grand Portage Fire Tac  
+38240	Gun Flint Fire Tac  
+38247	Cook County North Shore Hospital  
+38400	County 911  
+38401	Law Dispatch 1  
+38402	Law Dispatch 2  
+38403	Law Dispatch 3  
+38404	Law C2C 4  
+38405	Recreational Enf.  
+38406	Probation  
+38407	LAW 1E  
+38408	LAW 2E  
+38409	Jail - Detention  
+38415	Fire Dispatch 1  
+38416	Fire Dispatch 2  
+38417	FIRE 3  
+38418	FIRE 4  
+38419	FIRE 5  
+38420	FIRE 6  
+38421	FIRE 7  
+38422	FIRE 8  
+38423	EMS Dispatch 1  
+38424	EMS Dispatch 2  
+38425	EMS 3  
+38426	EMS 4  
+38427	EMS 5  
+38428	EMS 6  
+38429	EMS 7  
+38430	EMS 8  
+38433	Common 5  
+38434	Common 6  
+38435	Common 7  
+38436	Common 8  
+38437	Emergency Button  
+38439	County Roaming  
+38440	VHF Common Patch 1  
+38441	VHF Common Patch 2  
+38445	Event 1  
+38446	Event 2  
+38447	Road Dept.  
+38460	Hackensack Fire Administration  
+38463	Pillager Fire Adminstration  
+38464	Pine River Fire Administration  
+38465	Remer Fire Administration  
+38468	Cass Lake - Bena School Admin  
+38469	Pine River - Backus School Admin  
+38470	Pequot Lakes School Admin  
+38471	Northland School - Remer Admin  
+38472	Walker - Hackensack - Akeley School Admin  
+38476	Pine River - Backus School Busses  
+38479	Walker - Hackensack - Akeley School Busses  
+38600	County Roam  
+38601	Law Main 1.- Brainerd - Baxter PD's  
+38602	Law Admin  
+38603	Law Main 2 - S.O. and All other PD's  
+38604	Law Enforcement Dispatch - Patch 155.4300 Etc.  
+38605	Law Main 3  
+38606	Law Main 4  
+38610	Law Car 2 Car  
+38611	Law TAC 1  
+38612	Law TAC 2  
+38613	Law TAC 3  
+38614	Law TAC 4  
+38615	County Fire Main 1  
+38616	Fire Tactical 2  
+38617	Fire Tactical 3  
+38618	Fire Tactical 4  
+38619	Brainerd Fire Department Admin  
+38620	Fire Administartion 1  
+38621	Fire Administartion 2  
+38622	Crow Wing Co.  
+38623	County EMS Dispatch  
+38624	Crow Wing EMS  
+38625	Crow Wing EMS  
+38626	CRMC ER  
+38627	Crow Wing EMS  
+38628	St Joeseph Hospital Brainerd Emergency Room  
+38629	St Joeseph Hospital Brainerd Security  
+38631	Civil Defense Admin   
+38632	Crow Wing Common 6  
+38633	Crow Wing Common 7  
+38634	Crow Wing Common 8  
+38635	Crow Wing Common 9  
+38636	Crow Wing Common 10  
+38637	Crow Wing Common 11  
+38638	Crow Wing - 911  
+38639	Crow Wing Co.  
+38640	Event 1  
+38641	Event 2  
+38646	Crosby Police/Fire Admin  
+38648	Crow Wing County Highway Main  
+38649	Crow Wing County Highway Admin 1  
+38650	Crow Wing County Highway Admin 2  
+38656	Brainerd Electric Utility  
+38657	Crow Wing Co.  
+38658	Crow Wing Co.  
+38659	Baxter Public Works  
+38661	Breezy Point Public Works  
+38665	Crosslake Public Works  
+38666	Crosslake Fire Dept Admin  
+38678	Crow Wing Co.  
+38679	Nisswa Public Works  
+38680	Nisswa Fire/Police Admin  
+38681	Crow Wing Co.  
+38682	Pequot Lakes Admin   
+38683	Brainerd Schools  
+38685	Brainerd Schools  
+38692	Central Lakes College Campus Security  
+38693	Central Lakes College Admin   
+38696	EMS Common  
+38697	Jail Ops  
+38699	Mission Township Administration  
+38700	Leech Lake Law ALL  
+38701	Leech Lake Tribal Police Law 1  
+38702	Leech Lake Tribal Police Law 2  
+38703	Leech Lake Tribal Law 3  
+38704	Leech Lake Law Car 2 Car  
+38705	Leech Lake Conservation Officers  
+38706	Leech Lake Task Force  
+38707	Leech Lake Emergency Team  
+38708	Leech Lake Law Admin  
+38709	Leech Lake EMS All  
+38710	Leech Lake EMS 1 Dispatch  
+38711	Leech Lake EMS 2 Dispatch  
+38712	Leech Lake EMS Admin  
+38713	Leech Lake First Responders  
+38714	Indian Health Services Hospital Cass Lake  
+38715	Leech Lake Wildland Fire DRM Ops 1  
+38716	Leech Lake Resources Mgmt. DRM OPS 2  
+38717	Leech Lake All Call  
+38718	Leech Lake Common 1  
+38719	Leech Lake Common 2  
+38720	Leech Lake 911 Buttons  
+38721	Leech Lake Emergency  
+38722	Leech Lake Roaming  
+38723	Leech Lake VHF Patch 1  
+38724	Leech Lake VHF Patch 2  
+38725	Leech Lake Event 1  
+38726	Leech Lake Event 2  
+38727	Leech Lake Hwy Dept 1  
+38728	Leech Lake Hwy Dept 2  
+38729	Leech Lake Transit 1  
+38730	Leech Lake Transit 2  
+38731	Leech Lake Casino Gaming  
+38732	Leech Lake Public Works 1  
+38733	Leech Lake Public Works 2  
+38734	Leech Lake Public Works 2  
+38735	Leech Lake Head Start Buses  
+38736	Leech Lake Schools 1  
+38737	Leech Lake Schools 2  
+38800	Sheriff Office Admin  
+38802	Search/Rescue  
+38808	Land Department  
+38812	Sheriff Dispatch Law 1  
+38814	Sheriff C2C Law 2  
+38816	Sheriff Info Law 3  
+38818	Grand Rapids PD Ops  
+38820	Fire Dispatch 1  
+38822	Fire 2  
+38824	Fire 3  
+38826	Fire 4  
+38828	EMS 1  
+38830	EMS 2  
+38832	EMS 3  
+38834	IT Common  
+38838	MNSEF/Patch  
+38840	Fire Mutual Aid  
+38844	Event  
+38860	Grand Itasca Hospital  
+38862	Road Department  
+38866	Grand Rapids PD Admin  
+38872	Coleraine PD Admin  
+38874	Deer River PD Admin  
+38880	Balsam Fire Admn  
+38882	Bigfork Fire Administration  
+38884	Bovey Fire Admin  
+38888	Cohasset Fire Admin  
+38890	Coleraine Fire Admin  
+38892	Deer River Fire   
+38896	Grand Rapids Fire Administration  
+38900	Greenway Fire  
+38902	Itasca Fire Admin  
+38904	Keewatin fire Admin  
+38910	Bigfork EMS Admin  
+38914	Deer River Ambulance Administration  
+38916	Meds 1 Admin  
+38918	Nashwauk EMS Admin  
+38924	Cohasset Public Works  
+38926	Deer River Public Works  
+38928	Grand Rapids Public Works  
+38932	Coleraine Public Works  
+38934	Law Tac  
+38938	EMS Tac  
+38954	PS Common  
+38960	Deer River Hospital  
+38962	Bigfork Valley Hospital  
+38964	Grand Rapids School Busses  
+38966	Bigfork School Buses  
+39000	County Roam  
+39001	Law Dispatch ?  
+39200	Mayo Duluth Dispatch  
+39201	Mayo Duluth Patient Update  
+39202	Mayo Duluth Operations 1  
+39203	Mayo Duluth Operations 2  
+43000	County Roam  
+43002	County Roam  
+43004	Morrison MO 3  
+43006	Morrison MO 4  
+43008	Morrison MO 5  
+43010	Morrison MO 6  
+43012	Morrison MO 7  
+43014	Morrison MO 8  
+43016	Morrison MO 9  
+43018	Morrison 10  
+43020	Sheriff 1 Dispatch  
+43022	Law Enforcement 2 Car to Car  
+43030	Little Falls Police  
+43032	County Jail ops  
+43040	County Fire Dispatch  
+43042	Bowlus Fire Admin.  
+43044	Flensburg Fire Admin.  
+43046	Little Falls Fire Admin.  
+43048	Motley Fire Admin.  
+43050	MLMB Fire Admin.  
+43052	Pierz Fire Admin.  
+43054	Randall Fire Admin.  
+43056	Royalton Fire Admin.  
+43058	Scandia Valley Fire Admin. - Lincoln  
+43060	Swanville Fire Admin.  
+43062	Upsala Fire Admin.  
+43064	Highway Dept. 1  
+43066	Highway Dept. 2  
+43068	Highway Dept. 3  
+43074	Little Falls Public Works  
+43076	Morrison Co.  
+43078	Mayo - Dispatch  
+43096	St. Gabrial's ER CHI St. Gabrial's Hospital - Little Falls  
+43200	Princeton Fire 43200  
+43202	Princeton Fire 43202  
+43208	Mille Lacs Tribal Police Law Main  
+43214	County All Call  
+43216	County Fire  
+43234	Sheriff Car to Car  
+43236	Sheriff Tac 43236  
+43238	Sheriff Tac 43238  
+43248	Sheriff Dispatch  
+43260	Sheriff Tac 43260  
+43266	Princeton Public Works  
+43270	County Roam  
+43288	County Hwy Dept  
+43320	Fire Common  
+44944	"D. Lakes ""2900"" Dispatch  "
+44945	"D. Lakes ""2900"" Roaming  "
+44946	"D. Lakes ""2900"" TAC 2  "
+44947	"D. Lakes ""2900"" Accident Investigation  "
+44948	"D. Lakes ""2900"" TAC 1  "
+44950	"D. Lakes ""2900"" TAC 3 - All Call  "
+47102	Douglas County Hospital Pt. Info Douglas County Hospital - Alexandria  
+48134	NW Tac  
+48400	"Thief River Falls ""3200"" Dispatch  "
+48401	"Thief River Falls ""3200"" TAC   "
+48402	"Thief River Falls ""3200"" TAC 2  "
+48404	"Thief River Falls ""3200"" TAC 1  "
+48405	"Thief River Falls ""3200"" Roaming  "
+48406	"Thief River Falls ""3200"" TAC 3 - All Call  "
+48407	Border Patrol - TAC  
+48408	CLAY SO PATCH - 155.1300 / 151.2350  
+48409	NWS Grand Forks  
+48410	MHD PD PATCH - 155.0850  
+48411	Border Patrol - Dispatch  
+48414	DOT Bemidji - All Call  
+48416	DOT Bemidji 48416  
+48418	DOT Bemidji 48418  
+48420	DOT Bemidji - Emergency to State Patrol  
+48421	DOT Bemidji 48421  
+48424	DOT Bemidji 48424  
+48426	DOT Bemidji 48426  
+48428	DOT Bemidji - East Central - Bji. - D Rvr. - N Home  
+48430	DOT Bemidji - Southwest - Crookston - EGF - Erskine  
+48431	DOT Bemidji 48431  
+48434	DOT Bemidji 48434  
+48436	DOT Bemidji - Southeast - Bagley - P Rapids - Walker  
+48438	DOT Bemidji TAC  
+48440	DOT Bemidji 48440  
+48442	DOT Bemidji 48442  
+48444	DOT Bemidji - Northeast - Roseau - Baudette - Grygla  
+48446	DOT Bemidji - Northwest - TRF - Halllock - Warren - Karlstad  
+48448	DOT Bemidji 48448  
+48449	Parks District 2 Main  
+48450	Parks District 2 Tactical  
+48451	Lake Bronson State Park 1  
+48452	Lake Bronson State Park 2  
+48453	Old Mill State Park 1  
+48454	Old Mill State Park 2  
+48455	Hayes Lake State Park 1  
+48456	Hayes Lake State Park 2  
+48457	Zippel Bay State Park 1  
+48458	Zippel Bay State Park 2  
+48459	Garden Island State Park  
+48460	Big Bog State Park 1  
+48461	Big Bog State Park 2  
+48462	Lake Bemidji State Park 1  
+48463	Lake Bemidji State Park 2  
+48464	Red River State Park  
+48465	Itasca State Park 1  
+48466	Itasca State Park 2  
+48467	Itasca State Park 3  
+48468	Parks District ? Main  
+48469	Parks District ? Tactical  
+48470	Parks District ? Tactical  
+48500	NW ROAM  
+48502	NW TAC B  
+48504	NW 911  
+48506	Northwest Angle Interop   
+48508	NW HOSPITAL  
+48510	NW EOC  
+48512	NW FIRE  
+48514	NW EMS  
+48516	NW CALL  
+48518	NW TAC 1  
+48520	NW TAC 2  
+48522	NW TAC 3  
+48524	NW TAC 4  
+48526	NW TAC 5  
+48528	NW TAC 6  
+48530	NW TAC 7  
+48532	NW TAC 8  
+48534	NW TAC 9  
+48536	NW TAC 10  
+48538	NW TAC 11  
+48540	NW TAC 12  
+48541	ND State Radio Patch  
+48801	White Earth Law 1  
+48803	White Earth Law 2  
+48805	White Earth Law 3  
+48807	White Earth Law Tac 1  
+48809	White Earth Law Tac 2  
+48811	White Earth Law Admin  
+48813	White Earth Nation Public Health  
+48815	White Earth Fire - EMS 1  
+48817	White Earth Fire - EMS 2  
+48819	White Earth Fire - EMS 3  
+48821	White Earth Fire - EMS TAC 1  
+48823	White Earth Fire - EMS TAC 2  
+48825	White Earth Fire - EMS Admin  
+48827	White Earth Announcement Group  
+48829	White Earth Emergency Button  
+48831	White Earth 911  
+48833	Statewide Roam  
+48835	White Earth Common 1  
+48837	White Earth Common 2  
+48839	White Earth Common 3  
+48841	White Earth Roads Department 1  
+48843	White Earth Roads Department 2  
+48845	White Earth Shooting Star Transport 1  
+48847	White Earth Shooting Star Transport 2  
+48849	White Earth Head Start  
+48900	Norman SO Patch - 155.4900 - 155.775 - 155.5575  
+49100	Mahnomen SO Patch - 151.4525  
+49300	Announcement  
+49302	Sheriff Primary Dispatch - VHF Patch - 151.2350  
+49304	Sheriff 2 Alternate  
+49306	Sheriff 3 Alternate  
+49308	Sheriff Car-to-Car  
+49314	Jail  
+49324	Moorhead Police 1 Primary (Patch to 155.085 MHz)  
+49326	Moorhead Police 2 Alternate   
+49328	Moorhead Police 3 Alternate  
+49330	Moorhead Police Car-to-Car  
+49336	Dilworth Police  
+49338	Hawley Police  
+49340	Barnesville Police  
+49342	Glyndon Police  
+49346	Clay County Fire Dispatch  
+49350	FM Ambulance Dispatch  
+49356	Moorhead Fire Dispatch  
+49358	Moorhead Fire 2  
+49364	Clay County Highway - Patch 156.2400  
+49372	Moorhead Jr High Ops - Patch  
+49378	Moorhead PD Loop Patch  
+49379	Fargo, ND Police Patch - 151.2575  
+49380	Richland Co, ND Sheriff Patch - 158.8425  
+49383	Fargo Fire 1 Patch  
+49394	Clay 1  
+49395	Clay 2  
+49396	Clay 3  
+49397	Clay 4  
+49398	Clay 5  
+49399	Clay 6  
+49500	County Law Dispatch 1 - Patch - 155.5350  
+49501	County Common 2  
+49502	County Common 3  
+49503	County Common 4  
+49504	County Common 5  
+49505	County Common 6  
+49506	County Common 7  
+49507	County Common 8  
+49508	County Common 9E  
+49509	County Law 10 Car to Car  
+49511	County Jail  
+49513	County Fire Dispatch - Patch - 154.4000  
+49514	County Fire - TAC   
+49515	County EMS Dispatch - Patch - 155.0250  
+49516	County EMS - TAC 1  
+49518	County All Call  
+49519	County Emergency Trigger  
+49521	County Roam  
+49522	Fire Tac  
+49523	Becker Events 1  
+49524	Becker Events 2  
+49525	WE FEST Law Operations  
+49526	Fire Tac 1  
+49527	Fire Tac 2  
+49536	Lake Park Public Works  
+49537	Audubon Public Works  
+49700	Hubbard Law 1 Dispatch  
+49701	Hubbard Law All Call  
+49702	Hubbard Law 2 Dispatch  
+49703	Hubbard Law 3  
+49704	Hubbard Law 4  
+49705	Hubbard Law Car 2 Car  
+49706	Hubbard County Public Health  
+49707	Hubbard Law Admin  
+49708	Hubbard County Sheriff Admin  
+49709	Hubbard County Probation  
+49710	Park Rapids Police Dept. Admin  
+49711	Hubbard County Fire Announce  
+49712	Hubbard County Fire 1 Dispatch  
+49713	Hubbard County Fire 2 Dispatch  
+49714	Hubbard County Fire 3 Dispatch  
+49715	Hubbard County Fire 4 Dispatch  
+49716	Hubbard County Search & Rescue  
+49717	Hubbard County EMS 1 Dispatch  
+49718	Hubbard County EMS 2 Dispatch  
+49719	Hubbard County Fire Tac 1  
+49720	Hubbard County Fire Tac 2  
+49721	Hubbard County Fire/EMS TAC  
+49722	St Joe's Hospital Park Rapids Admin  
+49723	East Hubbard Fire Admin (Akeley)  
+49724	Hubbard 1st Response Admin  
+49725	Lake George Fire Admin  
+49726	Lakeport Fire Admin  
+49727	Nevis Fire Admin  
+49728	North EMS Hubbard Co Admin  
+49729	Park Rapids Fire Admin  
+49730	Hubbard County Announce All  
+49731	Hubbard County Emergency  
+49732	Hubbard County 911  
+49733	Hubbard Public Safety Roam  
+49734	Hubbard All Roam  
+49735	Hubbard Common 5  
+49736	Hubbard Common 6  
+49737	Hubbard Common 7  
+49738	Hubbard Common 8  
+49739	Hubbard Event 1  
+49740	Hubbard Event 2  
+49741	Hubbard VHF North  
+49742	Hubbard VHF South  
+49743	Hubbard US Forestry  
+49744	Hubbard Beltrami Co VHF FD  
+49745	Hubbard Becker Co VHF FD  
+49746	Hubbard Clearwater Co VHF FD  
+49747	Hubbard MN DNR  
+49748	Hubbard County Highway 1  
+49749	Hubbard County Highway 2  
+49750	Hubbard County Highway Admin  
+49751	Hubbard Assessor/Land Dept  
+49752	Hubbard Co Planning & Zoning  
+49753	Park Rapids Public Works  
+49754	Akeley Public Works  
+49755	Nevis Public Works  
+49756	Hubbard County Public Works 1  
+49757	Hubbard County Public Works 2  
+49758	Park Rapids Area Schools  
+49759	Laporte School District   
+49760	Nevis School  
+49900	Sheriff Dispatch - 155.5200  
+50100	Red Lake Law Dispatch - 154.3775  
+50101	County Roam  
+50200	911 to FM Dispatch Hailing  
+50202	911 Dispatch  
+50204	Transport Dispatch  
+50206	FM Ambulance Secure  
+50208	FM Ambulance Roam  
+50232	Sanford Air Med - Ground  
+50301	Sanford - Fargo  
+50303	Essentia - Fargo  
+50304	Sanford - Bemidji  
+50316	FM Ambulance - Thief River Falls  
+50317	Thief River Falls ??  
+50318	Bridges Med Center - Ada  
+50323	Mahnomen Hospital  
+50330	ST. Joe's Hospital - Park Rapids  
+50333	Bagley Hospital  
+50338	ST. Mary's Hospital - Detroit Lakes  
+50340	Sanford Air Med Comm. Center - Sioux Falls  
+50341	Cass Lake IHS  
+50500	SO Main - 154.7400 VHF  
+50511	County Paging  
+50523	Roam  
+50541	Law  
+50700	Kittson Dispatch - 155.7900 VHF  
+50702	Kittson Roam  
+50900	Sheriff Patch - 155.7000  
+50902	County Roam   
+50906	County EMS ?  
+50912	County Roam  
+50913	County Roam  
+50916	Law C2C  
+51100	L.O.W. Dispatch - 155.7000 VHF  
+51300	Marshall Law Dispatch - 155.6250 VHF  
+51479	Sanitation  
+51500	Traffic Control Point 1 - Sheriff Dispatch - 155.6850 - Patch  
+51501	Traffic Control Point 2 - Bemidji Police Dispatch - 155.6100 - Patch  
+51502	Traffic Control Point 3  
+51503	Emergency Buttons  
+51504	Announcement (All Users)  
+51505	Roaming  
+51506	Site Trunking  
+51507	BL 3 (VHF Patch)  
+51508	BL 4  
+51509	BL 5  
+51510	BL 6  
+51511	BL 7  
+51512	BL 8  
+51513	BL 9E  
+51514	BL 10E  
+51515	BL 11E  
+51516	Law 1 Dispatch  
+51517	Law 2 Dispatch  
+51518	Law Car-to-Car 1  
+51519	Law Car-to-Car 2  
+51520	Fire Dispatch Main  
+51521	Bemidji Fire Administration 1  
+51522	Bemidji Fire Administration 2  
+51523	Bemidji Fire Administration 3  
+51524	Bemidji Fire Administration 4  
+51525	Bemidji Fire Administration 5  
+51526	Bemidji Fire Administration 6  
+51527	Kelliher Fire Administration 1  
+51528	Kelliher Fire Administration 2  
+51529	Blackduck Fire Administration 1  
+51530	Blackduck Fire Administration 2  
+51531	Solway Fire Administration 1  
+51532	Solway Fire Administration 2  
+51533	Alaska Fire Administration 1  
+51534	Alaska Fire Administration 2  
+51535	EMS 1 Dispatch  
+51536	EMS 2 Dispatch  
+51537	EMS Dispatch Bemidji  
+51538	EMS Dispatch Kelliher  
+51539	EMS Dispatch Debs  
+51540	EMS Dispatch Jelle  
+51541	Bemidji Ambulance Service Administration  
+51542	Blackduck Ambulance Service Administration  
+51543	Emergency Management  
+51544	Jail 1  
+51545	Jail 2  
+51546	Courthouse Security and Bailiffs  
+51547	Sheriff Posse  
+51548	Sheriff SWAT  
+51598	Paul Bunyan Drug Task Force Tactical 1  
+51599	Paul Bunyan Drug Task Force Tactical 2  
+51700	Polk Law Dispatch  
+51702	Polk Law   
+51709	Crookston PD 1  
+51710	Crookston PD 2  
+51712	East Grand Forks PD Dispatch  
+51713	East Grand Forks PD 2  
+51717	Polk Fire - EMS 51717  
+51718	Polk Fire - EMS 51718  
+51719	Polk Fire - EMS 51719  
+51731	County LE Roam  
+51732	County EMS Fire PW Roam  
+51758	East Grand Forks Fire Dispatch Main (patch with 154.16 MHz)  
